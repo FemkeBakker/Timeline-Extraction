@@ -1,0 +1,3 @@
+doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,sentence
+1,1 oktober 2020,DATE,False,209,223,24,38,Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.
+1,1 oktober 2020,DATE,False,515,529,94,108,"Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95."
