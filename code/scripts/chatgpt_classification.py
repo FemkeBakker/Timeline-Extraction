@@ -158,11 +158,6 @@ def run_prompts(df, run_id, path, class_dict):
                 else:
                     result = extract_classes(result, classes)
 
-                for res in result:
-                    if res not in classes:
-                        print("LET OP ERROR: prediction is geen class")
-
-
                 # print(result)
 
                 # get end time of running batch

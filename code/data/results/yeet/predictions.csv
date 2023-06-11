@@ -1,0 +1,176 @@
+doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,sentence,prediction_event,prediction_class,batch,batch_runtime,run_id,prompt
+1,1 oktober 2020,DATE,False,148,162,39,53,"Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.",Besluit op uw Wob-verzoek,True,0,3.003774881362915,0,"
+Gegeven de volgende zinnen en datums, voer twee taken uit:
+- Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
+De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
+- Taak 2: Classificeer de datum op basis van de gebeurtenisomschrijving in twee klassen: ""True"" en ""False"". 
+Volg deze stappen om de datums te classificeren:
+1. Check of de datum een gebeurtenis omschrijving heeft.
+2. Als de datum geen gebeurtenis omschrijving heeft, classificeer dan de datum als ""False"".
+3. Als de datum wel een gebeurtenis omschrijving heeft, check dan of minimaal één woord ook voorkomt in de lijst met tokens: ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad'].
+4. Als er geen enkel woord in de gebeurtenis omschrijving voorkomt in de lijst met tokens, classificeer dan de datum als ""False"".
+5. Als er 1 of meerdere woorden in de gebeurtenis omschrijving voorkomen in de lijst met tokens, classificeer dan de datum als ""True"".
+
+Dit zijn de 5 datums dit waarop de taken uitgevoerd moeten worden:
+1. Date = 1 oktober 2020
+  - sentence = 'Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.'
+2. Date = 1 oktober 2020
+  - sentence = 'Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.'
+3. Date = 11 februari 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+4. Date = 1 oktober 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+5. Date = 1 oktober 2020
+  - sentence = 'Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.'
+
+
+Retourneer het resultaat als een JSON-bestand.
+Het JSON-bestand bevat 2 keys: gebeurtenis_omschrijving en classificatie.
+Geef voor elke key een lijst met de voorspellingen. Zorg er voor dat de lijsten een lengte van 5 hebben.
+Als de gebeurtenis omschrijving ontbreekt van een datum, geef dan ""None"". 
+Zorg er voor dat alles in lijsten tussen aanhalingstekens staat. 
+Voorbeeld output:
+- ""classificatie"" = ['True', 'False', 'True', 'False', 'False']
+- gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
+
+    "
+1,1 oktober 2020,DATE,False,209,223,24,38,Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.,None,False,0,3.003774881362915,0,"
+Gegeven de volgende zinnen en datums, voer twee taken uit:
+- Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
+De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
+- Taak 2: Classificeer de datum op basis van de gebeurtenisomschrijving in twee klassen: ""True"" en ""False"". 
+Volg deze stappen om de datums te classificeren:
+1. Check of de datum een gebeurtenis omschrijving heeft.
+2. Als de datum geen gebeurtenis omschrijving heeft, classificeer dan de datum als ""False"".
+3. Als de datum wel een gebeurtenis omschrijving heeft, check dan of minimaal één woord ook voorkomt in de lijst met tokens: ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad'].
+4. Als er geen enkel woord in de gebeurtenis omschrijving voorkomt in de lijst met tokens, classificeer dan de datum als ""False"".
+5. Als er 1 of meerdere woorden in de gebeurtenis omschrijving voorkomen in de lijst met tokens, classificeer dan de datum als ""True"".
+
+Dit zijn de 5 datums dit waarop de taken uitgevoerd moeten worden:
+1. Date = 1 oktober 2020
+  - sentence = 'Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.'
+2. Date = 1 oktober 2020
+  - sentence = 'Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.'
+3. Date = 11 februari 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+4. Date = 1 oktober 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+5. Date = 1 oktober 2020
+  - sentence = 'Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.'
+
+
+Retourneer het resultaat als een JSON-bestand.
+Het JSON-bestand bevat 2 keys: gebeurtenis_omschrijving en classificatie.
+Geef voor elke key een lijst met de voorspellingen. Zorg er voor dat de lijsten een lengte van 5 hebben.
+Als de gebeurtenis omschrijving ontbreekt van een datum, geef dan ""None"". 
+Zorg er voor dat alles in lijsten tussen aanhalingstekens staat. 
+Voorbeeld output:
+- ""classificatie"" = ['True', 'False', 'True', 'False', 'False']
+- gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
+
+    "
+1,11 februari 2020,DATE,False,374,390,39,55,U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.,documenten over de periode,True,0,3.003774881362915,0,"
+Gegeven de volgende zinnen en datums, voer twee taken uit:
+- Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
+De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
+- Taak 2: Classificeer de datum op basis van de gebeurtenisomschrijving in twee klassen: ""True"" en ""False"". 
+Volg deze stappen om de datums te classificeren:
+1. Check of de datum een gebeurtenis omschrijving heeft.
+2. Als de datum geen gebeurtenis omschrijving heeft, classificeer dan de datum als ""False"".
+3. Als de datum wel een gebeurtenis omschrijving heeft, check dan of minimaal één woord ook voorkomt in de lijst met tokens: ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad'].
+4. Als er geen enkel woord in de gebeurtenis omschrijving voorkomt in de lijst met tokens, classificeer dan de datum als ""False"".
+5. Als er 1 of meerdere woorden in de gebeurtenis omschrijving voorkomen in de lijst met tokens, classificeer dan de datum als ""True"".
+
+Dit zijn de 5 datums dit waarop de taken uitgevoerd moeten worden:
+1. Date = 1 oktober 2020
+  - sentence = 'Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.'
+2. Date = 1 oktober 2020
+  - sentence = 'Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.'
+3. Date = 11 februari 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+4. Date = 1 oktober 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+5. Date = 1 oktober 2020
+  - sentence = 'Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.'
+
+
+Retourneer het resultaat als een JSON-bestand.
+Het JSON-bestand bevat 2 keys: gebeurtenis_omschrijving en classificatie.
+Geef voor elke key een lijst met de voorspellingen. Zorg er voor dat de lijsten een lengte van 5 hebben.
+Als de gebeurtenis omschrijving ontbreekt van een datum, geef dan ""None"". 
+Zorg er voor dat alles in lijsten tussen aanhalingstekens staat. 
+Voorbeeld output:
+- ""classificatie"" = ['True', 'False', 'True', 'False', 'False']
+- gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
+
+    "
+1,1 oktober 2020,DATE,False,402,416,67,81,U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.,None,False,0,3.003774881362915,0,"
+Gegeven de volgende zinnen en datums, voer twee taken uit:
+- Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
+De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
+- Taak 2: Classificeer de datum op basis van de gebeurtenisomschrijving in twee klassen: ""True"" en ""False"". 
+Volg deze stappen om de datums te classificeren:
+1. Check of de datum een gebeurtenis omschrijving heeft.
+2. Als de datum geen gebeurtenis omschrijving heeft, classificeer dan de datum als ""False"".
+3. Als de datum wel een gebeurtenis omschrijving heeft, check dan of minimaal één woord ook voorkomt in de lijst met tokens: ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad'].
+4. Als er geen enkel woord in de gebeurtenis omschrijving voorkomt in de lijst met tokens, classificeer dan de datum als ""False"".
+5. Als er 1 of meerdere woorden in de gebeurtenis omschrijving voorkomen in de lijst met tokens, classificeer dan de datum als ""True"".
+
+Dit zijn de 5 datums dit waarop de taken uitgevoerd moeten worden:
+1. Date = 1 oktober 2020
+  - sentence = 'Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.'
+2. Date = 1 oktober 2020
+  - sentence = 'Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.'
+3. Date = 11 februari 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+4. Date = 1 oktober 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+5. Date = 1 oktober 2020
+  - sentence = 'Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.'
+
+
+Retourneer het resultaat als een JSON-bestand.
+Het JSON-bestand bevat 2 keys: gebeurtenis_omschrijving en classificatie.
+Geef voor elke key een lijst met de voorspellingen. Zorg er voor dat de lijsten een lengte van 5 hebben.
+Als de gebeurtenis omschrijving ontbreekt van een datum, geef dan ""None"". 
+Zorg er voor dat alles in lijsten tussen aanhalingstekens staat. 
+Voorbeeld output:
+- ""classificatie"" = ['True', 'False', 'True', 'False', 'False']
+- gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
+
+    "
+1,1 oktober 2020,DATE,False,515,529,94,108,"Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.",ontvangst van uw verzoek is schriftelijk bevestigd,False,0,3.003774881362915,0,"
+Gegeven de volgende zinnen en datums, voer twee taken uit:
+- Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
+De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
+- Taak 2: Classificeer de datum op basis van de gebeurtenisomschrijving in twee klassen: ""True"" en ""False"". 
+Volg deze stappen om de datums te classificeren:
+1. Check of de datum een gebeurtenis omschrijving heeft.
+2. Als de datum geen gebeurtenis omschrijving heeft, classificeer dan de datum als ""False"".
+3. Als de datum wel een gebeurtenis omschrijving heeft, check dan of minimaal één woord ook voorkomt in de lijst met tokens: ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad'].
+4. Als er geen enkel woord in de gebeurtenis omschrijving voorkomt in de lijst met tokens, classificeer dan de datum als ""False"".
+5. Als er 1 of meerdere woorden in de gebeurtenis omschrijving voorkomen in de lijst met tokens, classificeer dan de datum als ""True"".
+
+Dit zijn de 5 datums dit waarop de taken uitgevoerd moeten worden:
+1. Date = 1 oktober 2020
+  - sentence = 'Betreft Besluit op uw Wob-verzoek d.d. 1 oktober 2020, kernmerk 2020-95.'
+2. Date = 1 oktober 2020
+  - sentence = 'Geachte In uw brief van 1 oktober 2020 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht over granuliet.'
+3. Date = 11 februari 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+4. Date = 1 oktober 2020
+  - sentence = 'U vraagt om documenten over de periode 11 februari 2020 tot en met 1 oktober 2020.'
+5. Date = 1 oktober 2020
+  - sentence = 'Verloop van de procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail van 1 oktober 2020, kenmerk 2020-95.'
+
+
+Retourneer het resultaat als een JSON-bestand.
+Het JSON-bestand bevat 2 keys: gebeurtenis_omschrijving en classificatie.
+Geef voor elke key een lijst met de voorspellingen. Zorg er voor dat de lijsten een lengte van 5 hebben.
+Als de gebeurtenis omschrijving ontbreekt van een datum, geef dan ""None"". 
+Zorg er voor dat alles in lijsten tussen aanhalingstekens staat. 
+Voorbeeld output:
+- ""classificatie"" = ['True', 'False', 'True', 'False', 'False']
+- gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
+
+    "
