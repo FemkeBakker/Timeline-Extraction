@@ -38,7 +38,7 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 
 ### Example prompts
 To give an idea about how the prompts looked, we give an example for each of the ChatGPT prompts. The original prompts are in Dutch, but we translated them to English. 
-The first prompt is for ChatGPT to extract the event phrase and to classify the dates into dates with an event (True) and without an event (False). The second prompt is for ChatGPT to classify the dates with an event into one of the event classes.
+The first prompt is for ChatGPT to extract the event phrase and to classify the dates into dates with an event (True) and without an event (False). The second prompt is for ChatGPT to classify the dates with an event into one of the event classes. The given tokens in the prompts are based on the training set.
 #### Prompt 1: Event phrase extraction & date classification (True/False)
 ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/6daf7797-1b5b-428a-8614-00479bf12440)
 #### Prompt 2: Event classification
