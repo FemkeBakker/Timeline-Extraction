@@ -11,15 +11,15 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 ![voorbeeld_timeline3](https://github.com/FemkeBakker/Timeline-Extraction-from-decision-letters-using-ChatGPT/assets/70972237/f98bd4c8-ba98-4a2a-97aa-ef5889cdb7ed)
 
 ### Content of the files
-main.ipynb -> notebook where the different steps get connected + evaluated.
-demo.ipynb -> notebook where a demostration can be run.
-code/descriptives.ipynb -> notebook with descriptive statistics of dataset + predictions of chatGPT
-code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
-code/scripts -> contains all files with the code needed to run the algorithm. 
+- main.ipynb -> notebook where the different steps get connected + evaluated.
+- demo.ipynb -> notebook where a demostration can be run.
+- code/descriptives.ipynb -> notebook with descriptive statistics of dataset + predictions of chatGPT
+- code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
+- code/scripts -> contains all files with the code needed to run the algorithm. 
 #### data folder
-GT_doccano.jsonl -> original dataset with annotations, downloaded from Doccano (the annotation tool we used).
-data/GT -> contains csv files for the whole, test and trainingset with the ground truth.
-data/preparation -> contains all data needed in preparation stage. In data/preparation/IMIpdfs the original pdfs can be found. 
-data/results -> contains all the results from the steps that needed to be saved in between steps.
+- GT_doccano.jsonl -> original dataset with annotations, downloaded from Doccano (the annotation tool we used).
+- data/GT -> contains csv files for the whole, test and trainingset with the ground truth.
+- data/preparation -> contains all data needed in preparation stage. In data/preparation/IMIpdfs the original pdfs can be found. 
+- data/results -> contains all the results from the steps that needed to be saved in between steps.
 
 
