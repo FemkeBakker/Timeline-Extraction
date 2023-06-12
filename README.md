@@ -29,7 +29,7 @@ The first prompt is for ChatGPT to extract the event phrase and to classify the 
 #### Prompt 1: Event phrase extraction & date classification (True/False)
 ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/6daf7797-1b5b-428a-8614-00479bf12440)
 #### Prompt 2: Event classification
-![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/b8126dbe-5451-4da5-a227-8bff514691bf)
+![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/c9867caf-5fed-4c55-9007-a4c387d68840)
 
 
 
