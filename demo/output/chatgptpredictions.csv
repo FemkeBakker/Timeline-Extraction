@@ -1,5 +1,5 @@
 doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,sentence,decisiondate,id,prediction_event,batch,batch_runtime,run_id,prediction,prompt
-0,6 oktober 2021,DATE,False,158,172,19,33,", In uw e-mail van 6 oktober 2021 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld.",False,1,u heeft met een beroep op de Wet openbaarheid van bestuur verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld,0,2.9462103843688965,0,verzoek datum,"
+0,6 oktober 2021,DATE,False,158,172,19,33,", In uw e-mail van 6 oktober 2021 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld.",False,1,u heeft met een beroep op de Wet openbaarheid van bestuur verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld,0,2.2009403705596924,0,verzoek datum,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -28,7 +28,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
 3. Date = 3 februari 2022
   - sentence = 'In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.'
 4. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.'
+  - sentence = 'Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.'
 5. Date = 11 maart 2022
   - sentence = '11 maart 2022 2.'
 
@@ -38,7 +38,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "
-0,13 oktober 2021,DATE,False,410,425,78,93,Procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij brief van 13 oktober 2021 met kenmerk WOB/2021/252.,False,2,De ontvangst van uw verzoek is schriftelijk bevestigd,0,2.9462103843688965,0,ontvangst verzoek bevestigd,"
+0,13 oktober 2021,DATE,False,410,425,78,93,Procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij brief van 13 oktober 2021 met kenmerk WOB/2021/252.,False,2,De ontvangst van uw verzoek is schriftelijk bevestigd,0,2.2009403705596924,0,ontvangst verzoek bevestigd,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -67,7 +67,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
 3. Date = 3 februari 2022
   - sentence = 'In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.'
 4. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.'
+  - sentence = 'Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.'
 5. Date = 11 maart 2022
   - sentence = '11 maart 2022 2.'
 
@@ -77,7 +77,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "
-0,3 februari 2022,DATE,False,471,486,16,31,In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.,False,3,de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden,0,2.9462103843688965,0,beslistermijn verdaagd,"
+0,3 februari 2022,DATE,False,471,486,16,31,In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.,False,3,de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden,0,2.2009403705596924,0,beslistermijn verdaagd,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -106,7 +106,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
 3. Date = 3 februari 2022
   - sentence = 'In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.'
 4. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.'
+  - sentence = 'Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.'
 5. Date = 11 maart 2022
   - sentence = '11 maart 2022 2.'
 
@@ -116,7 +116,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "
-0,11 maart 2022,DATE,True,1183,1196,72,85,"Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.",False,7,Verzoek openbaarmaking gegevens,0,2.9462103843688965,0,overig,"
+0,11 maart 2022,DATE,False,1087,1100,44,57,Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.,False,6,None,0,2.2009403705596924,0,contact,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -145,7 +145,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
 3. Date = 3 februari 2022
   - sentence = 'In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.'
 4. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.'
+  - sentence = 'Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.'
 5. Date = 11 maart 2022
   - sentence = '11 maart 2022 2.'
 
@@ -155,7 +155,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "
-0,11 maart 2022,DATE,False,2276,2289,0,13,11 maart 2022 2.,False,8,2.,0,2.9462103843688965,0,overig,"
+0,11 maart 2022,DATE,False,2276,2289,0,13,11 maart 2022 2.,False,8,None,0,2.2009403705596924,0,overig,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -184,7 +184,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
 3. Date = 3 februari 2022
   - sentence = 'In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.'
 4. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.'
+  - sentence = 'Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.'
 5. Date = 11 maart 2022
   - sentence = '11 maart 2022 2.'
 
@@ -194,7 +194,7 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "
-0,11 maart 2022,DATE,False,2494,2507,198,211,"Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.",False,9,"Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.",1,4.158953666687012,0,verzoek datum,"
+0,11 maart 2022,DATE,False,3063,3076,109,122,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.,False,11,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens,1,1.2256968021392822,0,verzoek datum,"
 
     Instructies: 
     Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
@@ -215,87 +215,13 @@ doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,
     Tokens ""contact"" = ['bent', 'geïnformeerd', 'derde', 'belanghebbenden', 'geven', 'verzoek', 'ministerie', 'telefonisch', 'contact', 'mail']
     7. ""overig"" = Als een datum niet onder een van de andere klassen valt.
 
-    Dit zijn de 3 datums die geclassificeerd moeten worden:
+    Dit zijn de 1 datums die geclassificeerd moeten worden:
     1. Date = 11 maart 2022
-  - sentence = 'Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.'
-2. Date = 11 maart 2022
-  - sentence = 'Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.'
-3. Date = 11 maart 2022
   - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.'
 
 
     Return de klassen in een lijst. Voorbeeld output: [""verzoek datum"", ""overig"", ""contact""]. 
-    Zorg er voor dat de lijst een lengte van 3 heeft.
-    Zorg er voor dat de klassen dezelfde naam behouden. 
-
-    "
-0,11 maart 2022,DATE,False,2802,2815,100,113,"Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.",False,10,"afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege blijft voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.",1,4.158953666687012,0,overig,"
-
-    Instructies: 
-    Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
-    Je krijgt een reeks zinnen, elk gekoppeld aan een specifieke datum. 
-    Verder krijg je de definities van de klassen en tokens die vaak rondom datums van die klassen voorkomen in de zin. 
-    Het doel is om elke zin toe te wijzen aan een van de volgende zeven klassen:
-    1. ""verzoek datum"" = Op deze datum is een Woo verzoek ingediend. Op deze datum is er verzocht om informatie doormiddel van een Woo-verzoek. Op deze datum is gevraagd om openbaarmkaing van informatie. 
-    Tokens ""verzoek datum"" = ['beroep', 'Wet', 'hierna', 'verzocht', 'Wob', 'openbaarheid', 'bestuur', 'gevraagd', 'informatie', 'openbaar', 'maken']
-    2. ""verzoek ontvangen"" = Op deze datum is een Woo verzoek ontvangen. 
-    Tokens ""verzoek ontvangen"" = ['ontvangen']
-    3. ""ontvangst verzoek bevestigd"" = Op deze datum is bevestigd dat het verzoek ontvangen is. 
-    Tokens ""ontvangst verzoek bevestigd"" = ['ontvangst', 'verzoek', 'schriftelijk', 'bevestigd', 'brief', 'ontvangen', 'mail']
-    4. ""beslistermijn verdaagd"" = Op deze datum is de beslistermijn verdaagd, verplaatst of verlengd.
-    Tokens ""beslistermijn verdaagd"" = ['beslistermijn', 'vier', 'weken', 'verdaagd', 'verzoek', 'twee', 'mail']
-    5. ""inwerking treden van Woo"" = Op 1 mei 2020 is de Woo inwerking getreden. Op 1 mei 2020 is de Wob vervangen door de Woo.
-    Tokens ""inwerking treden van Woo"" = ['Wob', 'vervangen', 'Wet', 'open', 'overheid', 'hierna', 'Woo', 'geldt', 'getreden', 'ingetrokken', 'werking']
-    6. ""contact"" = Op deze datum heeft er communicatie plaatsgevonden.
-    Tokens ""contact"" = ['bent', 'geïnformeerd', 'derde', 'belanghebbenden', 'geven', 'verzoek', 'ministerie', 'telefonisch', 'contact', 'mail']
-    7. ""overig"" = Als een datum niet onder een van de andere klassen valt.
-
-    Dit zijn de 3 datums die geclassificeerd moeten worden:
-    1. Date = 11 maart 2022
-  - sentence = 'Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.'
-2. Date = 11 maart 2022
-  - sentence = 'Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.'
-3. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.'
-
-
-    Return de klassen in een lijst. Voorbeeld output: [""verzoek datum"", ""overig"", ""contact""]. 
-    Zorg er voor dat de lijst een lengte van 3 heeft.
-    Zorg er voor dat de klassen dezelfde naam behouden. 
-
-    "
-0,11 maart 2022,DATE,False,3063,3076,109,122,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.,False,11,Inventarislijst opgevraagde gegevens,1,4.158953666687012,0,verzoek ontvangen,"
-
-    Instructies: 
-    Je taak is om de gebeurtenissen die op een bepaalde datum hebben plaatsgevonden te classificeren op basis van de gegeven zinnen. 
-    Je krijgt een reeks zinnen, elk gekoppeld aan een specifieke datum. 
-    Verder krijg je de definities van de klassen en tokens die vaak rondom datums van die klassen voorkomen in de zin. 
-    Het doel is om elke zin toe te wijzen aan een van de volgende zeven klassen:
-    1. ""verzoek datum"" = Op deze datum is een Woo verzoek ingediend. Op deze datum is er verzocht om informatie doormiddel van een Woo-verzoek. Op deze datum is gevraagd om openbaarmkaing van informatie. 
-    Tokens ""verzoek datum"" = ['beroep', 'Wet', 'hierna', 'verzocht', 'Wob', 'openbaarheid', 'bestuur', 'gevraagd', 'informatie', 'openbaar', 'maken']
-    2. ""verzoek ontvangen"" = Op deze datum is een Woo verzoek ontvangen. 
-    Tokens ""verzoek ontvangen"" = ['ontvangen']
-    3. ""ontvangst verzoek bevestigd"" = Op deze datum is bevestigd dat het verzoek ontvangen is. 
-    Tokens ""ontvangst verzoek bevestigd"" = ['ontvangst', 'verzoek', 'schriftelijk', 'bevestigd', 'brief', 'ontvangen', 'mail']
-    4. ""beslistermijn verdaagd"" = Op deze datum is de beslistermijn verdaagd, verplaatst of verlengd.
-    Tokens ""beslistermijn verdaagd"" = ['beslistermijn', 'vier', 'weken', 'verdaagd', 'verzoek', 'twee', 'mail']
-    5. ""inwerking treden van Woo"" = Op 1 mei 2020 is de Woo inwerking getreden. Op 1 mei 2020 is de Wob vervangen door de Woo.
-    Tokens ""inwerking treden van Woo"" = ['Wob', 'vervangen', 'Wet', 'open', 'overheid', 'hierna', 'Woo', 'geldt', 'getreden', 'ingetrokken', 'werking']
-    6. ""contact"" = Op deze datum heeft er communicatie plaatsgevonden.
-    Tokens ""contact"" = ['bent', 'geïnformeerd', 'derde', 'belanghebbenden', 'geven', 'verzoek', 'ministerie', 'telefonisch', 'contact', 'mail']
-    7. ""overig"" = Als een datum niet onder een van de andere klassen valt.
-
-    Dit zijn de 3 datums die geclassificeerd moeten worden:
-    1. Date = 11 maart 2022
-  - sentence = 'Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.'
-2. Date = 11 maart 2022
-  - sentence = 'Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.'
-3. Date = 11 maart 2022
-  - sentence = 'Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.'
-
-
-    Return de klassen in een lijst. Voorbeeld output: [""verzoek datum"", ""overig"", ""contact""]. 
-    Zorg er voor dat de lijst een lengte van 3 heeft.
+    Zorg er voor dat de lijst een lengte van 1 heeft.
     Zorg er voor dat de klassen dezelfde naam behouden. 
 
     "

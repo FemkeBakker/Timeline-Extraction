@@ -134,7 +134,7 @@ def extract_result(prompt_result):
     return events, classes
 
 # for each document run prompt
-def run_prompts(df, run_id, path, class_dict, gt):
+def run_prompts(df, run_id, path, class_dict, api_option):
     num_rows = len(df)
     batch_size = 5
     max_retries = 3
@@ -188,16 +188,18 @@ def run_prompts(df, run_id, path, class_dict, gt):
                 batches.append(batch)
 
                 # uncomment code if using free api:
-                # if end_time-start_time < 30:
-                #     time.sleep(30 - (end_time-start_time))
+                if api_option == 'free':
+                    if end_time-start_time < 30:
+                        time.sleep(30 - (end_time-start_time))
                 break
             except Exception as e:
                 print(f"An error occurred: {str(e)}")
                 retries += 1
                 # uncomment code if using free api:
-                # end_time = time.time()
-                # if end_time-start_time < 30:
-                #     time.sleep(30 - (end_time-start_time))
+                if api_option == 'free':
+                    end_time = time.time()
+                    if end_time-start_time < 30:
+                        time.sleep(30 - (end_time-start_time))
             
             else:
                 print("Max retries exceeded. Moving to the next batch.")
@@ -222,7 +224,7 @@ def run_prompts(df, run_id, path, class_dict, gt):
     return None
 
 # run chatgpt for all documents
-def run(df, runs, path, gt):
+def run(df, runs, path, gt, api_option):
     ids = list(set(df['doc_id'].values))
 
     for i in ids[0:1]:
@@ -238,7 +240,7 @@ def run(df, runs, path, gt):
             class_dict = verb_tokens(gt)
             
             # run the prompts
-            run_prompts(df_doc, k, path, class_dict, gt)
+            run_prompts(df_doc, k, path, class_dict, api_option)
 
             # get runtime of a whole document
             end_time =  time.time()

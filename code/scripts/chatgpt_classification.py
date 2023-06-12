@@ -122,7 +122,7 @@ def extract_classes(string, classes):
     matched_classes.sort(key=lambda x: x[1])  # Sort based on starting index
     return [class_name for class_name, _ in matched_classes]
 
-def run_prompts(df, run_id, path, class_dict):
+def run_prompts(df, run_id, path, class_dict, api_option):
     num_rows = len(df)
     batch_size = 5
     max_retries = 3
@@ -175,12 +175,21 @@ def run_prompts(df, run_id, path, class_dict):
                     
                 
                 batches.append(batch)
-                # time.sleep(30)
+            
+                # uncomment code if using free api:
+                if api_option == "free":
+                    if end_time-start_time < 30:
+                        time.sleep(30 - (end_time-start_time))
+
                 break
             except Exception as e:
                 print(f"An error occurred: {str(e)}")
                 retries += 1
-                # time.sleep(30)
+                
+                if api_option == "free":
+                    end_time = time.time()
+                    if end_time-start_time < 30:
+                        time.sleep(30 - (end_time-start_time))
             
             else:
                 print("Max retries exceeded. Moving to the next batch.")
@@ -207,7 +216,7 @@ def run_prompts(df, run_id, path, class_dict):
     # display(df_copy)
     return None
 
-def run(df,  runs, path, gt):
+def run(df,  runs, path, gt, api_option):
     ids = list(set(df['doc_id'].values))
 
     for i in ids:
@@ -220,7 +229,7 @@ def run(df,  runs, path, gt):
             # print(f"k original: {k}")
             class_dict = important_tokens(gt)
 
-            run_prompts(df_doc, k, path, class_dict)
+            run_prompts(df_doc, k, path, class_dict, api_option)
 
             end_time =  time.time()
             df_time = pd.DataFrame(columns=['doc_id', "run_id", "time"])

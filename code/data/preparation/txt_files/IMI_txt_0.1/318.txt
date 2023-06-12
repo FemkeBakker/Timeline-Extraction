@@ -1,0 +1,308 @@
+File id: 318 File title: Wob+besluit+inzake+risicomodellen+en+algoritmes.pdf.
+L
+> Retouradres Postbus 11 9560 AA TER APEL
+Directie Juridische Zaken
+JZ Specialistisch Team RVN
+VPRO Radio
+t.a.v. : Rijnstraat 8
+2515 XP Den Haag
+Postbus 11
+T 0
+1200 JC Hilversum
+werkdagen van 9.00 tot 17.00
+www.ind.nl
+Contactpersoon
+M
+kenmerk
+Datum 18 maart 2022
+Z1-159064815560
+Betreft Uw Wob-verzoek
+Uw kenmerk
+Wob verzoek
+Geachte heer ,
+U hebt bij brief van 5 augustus 2021 met een beroep op de Wet openbaarheid
+van bestuur (hierna: Wob) een verzoek om informatie ingediend bij het
+Ministerie van Justitie en Veiligheid. Bij mailbericht aan het Ministerie van 29
+oktober 2021 heeft u het verzoek nader gespecificeerd tot een verzoek om
+informatie over, onder meer, het Risicomodel Erkend Referenten bij de IND. Na
+een digitaal overleg met vertegenwoordigers van de IND op 4 januari 2022
+heeft u het verzoek verder gespecificeerd en verzocht om openbaarmaking van
+informatie over het gebruik van het risicomodel Erkend Referenten bij de IND
+en de redenen voor stopzetting van dit risicomodel. U heeft toen aangegeven
+dat het verstrijken van de beslistermijn geen probleem voor u was. Bij deze
+voldoe ik aan uw verzoek en geef ik een toelichting op het risicomodel Erkend
+Referenten.
+Wettelijk kader
+Uw verzoek valt onder de reikwijdte van de Wob.
+Voor de relevante Wob-artikelen verwijs ik u naar bijlage 1.
+Toelichting
+In 2013 heeft het Modern Migratiebeleid (MoMi) haar intrede gedaan binnen de
+vreemdelingenrecht1. Met het MoMi werd beoogd een efficiëntieslag tot stand
+te brengen in het naar Nederland halen van kennismigranten door in
+vertrouwen met zogenaamde erkend referenten samen te werken. Voor 2013
+konden bedrijven als convenanthouder voor kennismigranten een
+verblijfsvergunning aanvragen.
+Indien een bedrijf of organisatie het erkend referentschap heeft verkregen
+worden aanvragen van de individuele kennismigranten die zij naar Nederland
+willen halen in beginsel binnen twee weken afgehandeld, zonder indiening van
+onderliggende stukken. Nu de verantwoordelijkheid voor de toetsing van
+aanvragen van kennismigranten werd verplaatst naar de bedrijven die als
+referent door de IND zijn erkend, bestond de behoefte een inschatting te
+kunnen maken bij welke bedrijven een verhoogd risico lag op niet-naleving van
+relevante regelgeving. De voornaamste overtreding waartegen de IND daarbij
+1 Eindrapportage – Ontwikkeling van een risicoscore voor bedrijven die kennismigranten
+overhalen, p. 3.
+Pagina 1 van 8wilde optreden was fraude met het salariscriterium2. In deze behoefte werd
+voorzien door het risicomodel. Het model is ontworpen om een risico-
+Directie Juridische Zaken
+gestuurde inschatting te kunnen maken in welke gevallen onderzoek diende te JZ Specialistisch Team RVN
+worden verricht door het opvragen van aanvullende documentatie alvorens tot
+een beslissing werd overgegaan3. Procesmatig staat het inzetten van het model
+los van de juridische beoordeling van de aanvraag van de individuele
+kennismigrant.
+Bij het opstellen van het risicomodel is gebruik gemaakt van modellen die door
+het Ministerie van Sociale Zaken en Werkgelegenheid en de Belastingdienst4
+werden gehanteerd bij de inschatting van risico’s binnen de eigen uitvoering.
+Dit risico werd bepaald aan de hand van vier indicatoren, te weten de omvang
+van het bedrijf, de branche (KVK sectorcode) waarin het bedrijf werkzaam is,
+het al dan niet in bezit zijn van een website en het al dan niet in het bezit zijn
+van een bedrijfspand. De uitkomst van het algoritme werd beoordeeld door
+een IND-medewerker. Het gaat dus niet om een geautomatiseerd risicomodel.
+Naast de vier indicatoren die het algoritme vormden en bepalend waren voor
+de risicoscore van de erkend referent, waren er overige indicatoren die werden
+opgeslagen voor mogelijk toekomstige analyse5. Daarnaast konden deze
+overige indicatoren, naast het dossier van de erkend referent, worden gebruikt
+door de toezichthouder voor het uitvoeren van toezicht als daar aanleiding toe
+was. Berekening van de score gebeurde op het moment dat een bedrijf een
+aanvraag om erkenning als referent indiende. De scores werden vervolgens
+zowel onder de desbetreffende zaken opgenomen in het interne
+informatiesysteem INDiGO als in een Excelbestand op de interne
+internetpagina Sharepoint. Naar aanleiding van latere bevindingen kon de
+risicoscore handmatig worden aangepast, bijvoorbeeld indien twijfels rezen
+over de marktconformiteit van het salaris van de kennismigrant6. Hiervoor
+diende de medewerker een formulier te vullen waarin onder meer om een
+motivering wordt gevraagd7. Het gebruik van het risicomodel is tweeledig
+geweest. Enerzijds is er binnen de afdeling die controlebezoeken bij erkend
+referenten uitvoert gebruik gemaakt van het risicomodel bij de selectie van te
+bezoeken bedrijven. Anderzijds heeft de risicoscore op de afdelingen waar op
+individuele aanvragen van kennismigranten wordt beslist een rol gespeeld bij
+de beoordeling in welke zaken bijvoorbeeld aanvullende stukken werden
+opgevraagd. De afgelopen tijd hebben ontwikkelingen zoals de
+toeslagenaffaire, maar ook de aanscherping van AVG-vereisten geleid tot een
+kritischer blik op het gebruik van het risicomodel. Door de afdeling Juridische
+Zaken is in 2017 gewezen op de onwenselijkheid van één van de overige
+indicatoren, die ziet op de samenstelling van het bedrijfsbestuur (Nederland,
+Westers of niet-Westers)8. De onderbouwing bij de totstandkoming hiervan
+vormde de hypothese: “In bepaalde regio’s van de wereld heeft men een
+2 Eindrapportage – Ontwikkeling van een risicoscore voor bedrijven die kennismigranten
+overhalen, p. 10.
+3 Tussen handhaven en dienstverlenen, Over het toezicht van de IND op de werkgever
+als erkend referent, Inspectie Justitie en Veiligheid, p. 33. Tussen handhaven en
+dienstverlenen - Over het toezicht van de IND op de werkgever als erkend referent |
+Rapport | Inspectie Justitie en Veiligheid (inspectie-jenv.nl)
+4 Eindrapportage – Ontwikkeling van een risicoscore voor bedrijven die kennismigranten
+overhalen, p. 19-20
+5 Invulinstructie Sharepoint ihkv (her) profilering bedrijven. De indicator “samenstelling
+bestuur” viel onder deze overige indicatoren.
+6 Memo huidige risicoscore, 22 april 2021.
+7 Invulinstructie Sharepoint ihkv (her) profilering bedrijven.
+8 160617 nota model PDF, p. 2.
+Pagina 2 van 8andere manier om met wettelijke bepalingen om te gaan. Hierdoor zullen
+bestuurders uit een bepaald geboorteland eerder over gaan tot het overtreden
+Directie Juridische Zaken
+van regels9.” Hierbij dient wel te worden opgemerkt dat de achtergrond van JZ Specialistisch Team RVN
+bestuurder nooit als onderdeel van het algoritme is gehanteerd en als zodanig
+dan ook niet heeft bijgedragen aan de vaststelling van de scores naar
+aanleiding waarvan bedrijven mogelijk werden gecontroleerd. Onder verwijzing
+naar hoofdstuk 6 van de Eindrapportage Ontwikkeling van een risicoscore voor
+bedrijven die kennismigranten overhalen van 6 juli 2011, werd ook de
+totstandkoming van het model bekritiseerd, nu het aantal frauderende
+bedrijven dat de grondslag voor dit model heeft gevormd te klein is om van
+een solide wetenschappelijke basis te kunnen spreken10. In maart 2021 zijn
+alle verwijzingen naar de bestuurssamenstelling van Sharepoint verwijderd.
+Voortschrijdend inzicht heeft verder geleid tot de conclusie dat toegang, opzet
+en beheer van het risicomodel niet eenduidig waren geregeld en dat een
+mogelijke bias bij de toepassing van het model niet kon worden uitgesloten.
+Naar aanleiding van bovengenoemde kritiek heeft de Tactische Tafel
+Handhaving op 20 mei 2021 geadviseerd, vooralsnog tijdelijk, per direct te
+stoppen met het gebruik van het risicomodel. Het MT IND heeft vervolgens in
+januari 2022 besloten over te gaan tot een definitieve stopzetting. Momenteel
+wordt Informatie gestuurd werken vormgegeven, waarbij een nieuw
+risicomodel op mogelijke overtreding van de plichten wordt ontwikkeld dat
+alleen gebruikt gaat worden bij de selectie van te bezoeken bedrijven.
+Daarnaast worden ook de actuele verwijzingen naar het afgeschafte
+risicomodel in INDiGO ontoegankelijk gemaakt, zodat deze niet meer voor
+medewerkers inzichtelijk zijn.
+Politieke en bestuurlijke context
+Op 19 januari 2021 heeft Kamerlid Marijnissen Motie 21 ingediend, waarin de
+regering wordt verzocht ‘voor 1 maart een voorstel te doen hoe overal binnen
+overheidsinstellingen vervuilde data, risicomodellen en het gebruik van
+nationaliteit worden opgeruimd11.’ Daarop heeft de Staatssecretaris van
+Binnenlandse Zaken bij brief van 8 april 2021 aangegeven dat dit verzoek ziet
+op onrechtmatig of oneigenlijk gebruik van afkomst gerelateerde indicatoren in
+risicomodellen12. Momenteel is deze motie nog in uitvoering en wordt hierin
+ook door de IND actie ondernomen.
+Besluit
+Uw verzoek wordt gedeeltelijk ingewilligd. Er doet zich een aantal
+uitzonderingsgronden voor zoals genoemd in de Wob, die een beperkte
+kennisname van hetgeen in de documenten is opgenomen, rechtvaardigt. In
+het navolgende zal ik hier nader op ingaan.
+Inventarisatie en wijze van anonimiseren
+Op basis van uw verzoek zijn 19 documenten aangetroffen, welke zijn
+opgenomen in de bijgevoegde inventarisatielijst (bijlage 2). Daarin is per
+document aangegeven wat ik heb besloten ten aanzien van de
+openbaarmaking ervan, en welke weigeringsgrond(en) van toepassing is (zijn).
+9 Eindrapportage – Ontwikkeling van een risicoscore voor bedrijven die kennismigranten
+overhalen, p. 9.
+10 160617 nota model PDF versie 1.0, p. 2.
+11 Kamerstukken II, 2020/21, 35510, nr. 21
+12 Kamerstukken II, 2020/21, 26643, nr. 16
+Pagina 3 van 8De passages die worden geweigerd op grond van artikel 10, tweede lid, aanhef
+en onder e, van de Wob en waar de persoonlijke levenssfeer van ambtenaren
+Directie Juridische Zaken
+in het geding is, zijn te herkennen aan de code ”10 lid 2e” in de weggelakte JZ Specialistisch Team RVN
+tekst. Passages die worden geweigerd op grond van het bepaalde in artikel 11,
+tweede lid, van de Wob, zijn te herkennen aan de code ”11 lid 2” in de
+weggelakte tekst. Op deze wijze is de motivering van de geweigerde informatie
+per document en per passage weergegeven.
+In de inventarisatielijst is aangegeven welke van de door u gevraagde
+documenten niet eerder openbaar waren en door dit besluit (deels) openbaar
+gemaakt worden. Het betreft mailberichten, nota’s, memo’s en rapportages.
+De documenten die openbaar worden gemaakt treft u aan als bijlage 3.
+Overwegingen
+Ingevolge artikel 3, vijfde lid, van de Wob, wordt een verzoek om informatie
+ingewilligd met inachtneming van het bepaalde in de artikelen 10 en 11 Wob.
+Bescherming van de persoonlijke levenssfeer
+Op grond van artikel 10, tweede lid, aanhef en onder e, van de Wob blijft
+verstrekking van informatie achterwege voor zover het belang daarvan niet
+opweegt tegen het belang dat de persoonlijke levenssfeer wordt geëerbiedigd.
+Persoonsgegevens van ambtenaren
+Voor zover het informatiebericht persoons- en contactgegevens van
+ambtenaren bevat, kan waar het gaat om het beroepshalve functioneren van
+ambtenaren, slechts in beperkte mate een beroep worden gedaan op het
+belang van de eerbiediging van hun persoonlijke levenssfeer. Dit ligt anders
+indien het betreft het openbaar maken van namen en telefoonnummers van
+ambtenaren. Namen zijn immers persoonsgegevens en het belang van de
+eerbiediging van hun persoonlijke levenssfeer kan zich tegen het openbaar
+maken daarvan verzetten. Daarbij is van belang dat het hier niet gaat om het
+opgeven van een naam aan een individuele burger die met een ambtenaar in
+contact treedt, maar om openbaarmaking van de naam in de zin van de Wob.
+De persoonlijke levenssfeer van deze ambtenaren weegt naar mijn oordeel
+zwaarder dan het algemeen belang bij openbaarmaking van deze gegevens,
+waarbij van belang is dat de functies van deze ambtenaren niet inhouden dat
+deze beroepsmatig in de openbaarheid treden. Wat de telefoonnummers
+betreft, acht ik de bereikbaarheid van de IND via een algemeen nummer
+voldoende. Openbaarmaking hiervan heeft geen toegevoegde waarde ten
+opzichte van algemene nummer. Gelet op het voorgaande heb ik deze
+gegevens dan ook verwijderd ook het document.
+Een aantal documenten bevat e-mailadressen van interne e-mailboxen van de
+IND. Bij openbaarmaking van deze e-mailadressen valt niet uit te sluiten dat
+derden hiervan gebruik zullen gaan maken. Hier zijn deze e-mailadressen niet
+voor bedoeld. De potentiële hinder die de gebruikers van deze e-mailadressen
+kunnen ondervinden van kenbaarheid voor een ieder van deze e-mailadressen,
+weegt naar mijn oordeel zwaarder dan het algemene belang van openbaarheid.
+Daarom maak ik deze e-mailadressen niet geheel openbaar.
+De hierboven bedoelde passages zijn te herkennen aan de code “10 lid 2e”
+naast de weggelakte tekst.
+Artikel 11, eerste en tweede lid van de Wob
+Pagina 4 van 8Artikel 11, eerste lid van de Wob bepaalt dat in geval van een verzoek om
+informatie uit documenten, opgesteld ten behoeve van intern beraad, geen
+Directie Juridische Zaken
+informatie wordt verstrekt over daarin opgenomen persoonlijke JZ Specialistisch Team RVN
+beleidsopvattingen.
+Het interne karakter van een stuk wordt bepaald door het oogmerk waarmee
+dit is opgesteld. Degene die het stuk heeft opgesteld, moet de bedoeling
+hebben gehad dat dit zou dienen voor hemzelf of voor gebruik door anderen
+binnen de overheid. De door de ambtenaren opgestelde nota’s zijn uitsluitend
+opgesteld ten behoeve van een (interne) oordeelsvorming door hun politieke
+verantwoordelijke over de toepassing van het Risicomodel Erkend Referenten.
+Hetgeen is opgenomen in de memo en het mailbericht en is onthouden op
+grond van artikel 11 lid 1 en 2 Wob, is opgesteld ten behoeve van intern
+beraad en behelst de schriftelijke neerslag van de persoonlijke
+beleidsopvattingen van ambtenaren, waaruit blijkt hoe zij denken over de
+eventuele toepassing van voornoemd beleid.
+Uit de wetsgeschiedenis blijkt dat onder het begrip “documenten opgesteld ten
+behoeve van intern beraad” onder meer moeten worden begrepen: nota’s van
+ambtenaren13 en hun politieke en ambtelijk leidinggevenden, correspondentie
+tussen de onderdelen van een ministerie en tussen ministeries onderling,
+concepten van stukken, agenda’s, notulen, samenvattingen en conclusies van
+interne besprekingen en rapporten van ambtelijke adviescommissies. Ten
+aanzien van deze stukken moet van de bedoeling om ze als stukken voor
+intern beraad beschouwd te zien, uitdrukkelijk blijken of men moet deze
+bedoeling redelijkerwijs kunnen vermoeden. Deze beperking op de
+informatieverplichting is in de Wob opgenomen omdat een ongehinderde
+bijdrage van ambtenaren en van hen die van buiten bij het intern beraad zijn
+betrokken bij de beleidsvorming en voorbereiding gewaarborgd moet zijn. Zij
+moeten in alle openhartigheid onderling en met bewindspersonen kunnen
+communiceren. Staatsrechtelijk zijn slechts de standpunten die het
+bestuursorgaan voor zijn rekening wil nemen relevant.
+Onder persoonlijke beleidsopvattingen worden verstaan: meningen,
+opinies, commentaren, voorstellen, conclusies met de daartoe aangevoerde
+argumenten.
+De overgelegde nota’s zijn opgesteld ten behoeve van intern beraad en bevat
+persoonlijke beleidsopvattingen. Ik verstrek geen
+informatie over het achtergehouden gedeelte. Dit betreft commentaren,
+suggesties, gedachte-uitwisselingen en conclusies van ambtenaren van zowel
+de IND als ook het Ministerie van Justitie en Veiligheid. Ambtenaren moeten de
+mogelijkheid hebben om in alle vrijheid en in een vertrouwelijke omgeving
+opvattingen te uiten. Een aantal documenten betreft conceptversies van nota’s
+en standpunten.
+Zowel uit de wetsgeschiedenis als uit de jurisprudentie volgt dat
+conceptversies zijn aan te merken als documenten opgesteld ten behoeve van
+intern beraad. In documenten 10 en 17 is informatie niet verstrekt met
+inachtneming van voornoemde bepaling.
+Waar ik deze weigeringsgrond heb toegepast, heb ik dit aangeduid met de
+tekst ’11 lid 1 en 2’.
+13 Kamerstukken II 1986/87, 19859, nr. 3, p. 13-14
+Pagina 5 van 8Wijze van openbaarmaking
+Een geanonimiseerde versie van dit besluit wordt op www.rijksoverheid.nl
+Directie Juridische Zaken
+geplaatst. JZ Specialistisch Team RVN
+Hoogachtend,
+De Staatssecretaris voor Justitie en Veiligheid,
+namens deze,
+Directeur Regulier Verblijf en Nederlanderschap
+Pagina 6 van 8Directie Juridische Zaken
+JZ Specialistisch Team RVN
+Rechtsmiddelen
+Tegen dit besluit kan binnen zes weken bezwaar worden gemaakt bij de IND.
+Daartoe dient diegene ten aanzien van wie het besluit is gegeven of diens
+wettelijk vertegenwoordiger, zijn bijzonder gemachtigde of een advocaat,
+indien deze verklaart daartoe bepaaldelijk te zijn gemachtigd, een aan de IND
+gericht gemotiveerd bezwaarschrift te zenden aan het in het briefhoofd
+vermelde postbusnummer. Het bezwaarschrift moet door de indiener zijn
+ondertekend en bevat ten minste zijn naam en adres, de dagtekening, een
+omschrijving van het besluit waartegen het bezwaar is gericht, en de gronden
+waarop het bezwaarschrift rust. Het is raadzaam een kopie van de beschikking
+bij het bezwaarschrift mee te zenden.
+Bijlage 1 – Relevante artikelen uit de Wob
+Artikel 1
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+a. document: een bij een bestuursorgaan berustend schriftelijk stuk of
+ander materiaal dat gegevens bevat;
+b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft
+op beleid van een bestuursorgaan, daaronder begrepen de
+voorbereiding en de uitvoering ervan;
+…
+Artikel 10
+1. Het verstrekken van informatie ingevolge deze wet blijft achterwege voor
+zover dit:
+...
+2. Het verstrekken van informatie ingevolge deze wet blijft eveneens
+achterwege voor zover het belang daarvan niet opweegt tegen de volgende
+belangen:
+..
+e. de eerbiediging van de persoonlijke levenssfeer;
+…
+Artikel 11
+1 In geval van een verzoek om informatie uit documenten, opgesteld ten
+behoeve van intern beraad, wordt geen informatie verstrekt over daarin
+opgenomen persoonlijke beleidsopvattingen.
+Pagina 7 van 82 Over persoonlijke beleidsopvattingen kan met het oog op een goede en
+Directie Juridische Zaken
+democratische bestuursvoering informatie worden verstrekt in niet tot
+JZ Specialistisch Team RVN
+personen herleidbare vorm. Indien degene die deze opvattingen heeft geuit of
+zich erachter heeft gesteld, daarmee heeft ingestemd, kan de informatie in tot
+personen herleidbare vorm worden verstrekt.
+Pagina 8 van 8
