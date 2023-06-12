@@ -15,9 +15,11 @@ main.ipynb -> notebook where the different steps get connected + evaluated.
 demo.ipynb -> notebook where a demostration can be run.
 code/descriptives.ipynb -> notebook with descriptive statistics of dataset + predictions of chatGPT
 code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
+code/scripts -> contains all files with the code needed to run the algorithm. 
 #### data folder
 GT_doccano.jsonl -> original dataset with annotations, downloaded from Doccano (the annotation tool we used).
 data/GT -> contains csv files for the whole, test and trainingset with the ground truth.
 data/preparation -> contains all data needed in preparation stage. In data/preparation/IMIpdfs the original pdfs can be found. 
 data/results -> contains all the results from the steps that needed to be saved in between steps.
+
 
