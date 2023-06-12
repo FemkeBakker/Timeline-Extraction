@@ -362,4 +362,5 @@ def evaluate(df, gt):
     average, fraction_50 , fraction_75, fraction_100 = average_jaccard_similarity(list(df_sim['truth_event'].values), list(df_sim['prediction_event'].values))
 
     print(f"Average jaccard similarity: {round(average*100, 3)}% \n Fraction of dates that overlap >= 50%: {round(fraction_50*100, 3)}% \n Fraction of dates that overlap >= 75%: {round(fraction_75*100,3)}% \n Fraction of dates that overlap = 100%: {round(fraction_100*100,3)}% ")
-    return df_copy, df_sim
+    df_sim.to_csv("code/data/results/chatgpt_extraction/evaluated_predictions.csv", index=False)
+    return df_copy
