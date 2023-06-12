@@ -4,6 +4,7 @@ This repository contains code for extracting timeline from government decision l
 In this read me you can find the following things:
 1. Instruction for the demo
 2. Explanation of the content of the different files
+3. Example prompts
 
 ### Demo of timeline example
 We have marked the annotations of one of the documents in a [PDF](https://github.com/FemkeBakker/Timeline-Extraction-from-decision-letters-using-ChatGPT/blob/main/voorbeeld_pdf.pdf) to demonstrated how the annotations look. In [demo.ipynb](https://github.com/FemkeBakker/Timeline-Extraction-from-decision-letters-using-ChatGPT/blob/main/demo.ipynb) we have set up a demonstration, where the notebook takes a document and returns an ordered dataframe as the timeline. As default, we have set up the same document as from the PDF example, however feel free to insert another file as input. More instructions about the demo can be found in demo.ipynb. Below, an image of the timeline we would like the algorithm to return of the document:
@@ -21,5 +22,11 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 - data/GT -> contains csv files for the whole, test and trainingset with the ground truth.
 - data/preparation -> contains all data needed in preparation stage. In data/preparation/IMIpdfs the original pdfs can be found. 
 - data/results -> contains all the results from the steps that needed to be saved in between steps.
+
+### Example prompts
+To give an idea about how the prompts looked, we give an example for each of the ChatGPT prompts. The original prompts are in Dutch, but we translated them to English. 
+The first prompt is for ChatGPT to extract the event phrase and to classify the dates into dates with an event (True) and without an event (False). 
+
+
 
 
