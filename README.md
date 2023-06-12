@@ -4,7 +4,8 @@ This repository contains code for extracting timeline from government decision l
 In this read me you can find the following things:
 1. Instruction for the demo
 2. Explanation of the content of the different files
-3. Example prompts
+3. Event class definitions
+4. Example prompts
 
 ### Demo of timeline example
 We have marked the annotations of one of the documents in a [PDF](https://github.com/FemkeBakker/Timeline-Extraction-from-decision-letters-using-ChatGPT/blob/main/voorbeeld_pdf.pdf) to demonstrated how the annotations look. In [demo.ipynb](https://github.com/FemkeBakker/Timeline-Extraction-from-decision-letters-using-ChatGPT/blob/main/demo.ipynb) we have set up a demonstration, where the notebook takes a document and returns an ordered dataframe as the timeline. As default, we have set up the same document as from the PDF example, however feel free to insert another file as input. More instructions about the demo can be found in demo.ipynb. Below, an image of the timeline we would like the algorithm to return of the document:
@@ -13,7 +14,7 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 
 ### Content of the files
 - main.ipynb -> notebook where the different steps get connected + evaluated.
-- demo.ipynb -> notebook where a demostration can be run.
+- demo.ipynb -> notebook where a demonstration can be run.
 - code/descriptives.ipynb -> notebook with descriptive statistics of dataset + predictions of chatGPT
 - code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
 - code/scripts -> contains all files with the code needed to run the algorithm. 
@@ -22,6 +23,18 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 - data/GT -> contains csv files for the whole, test and trainingset with the ground truth.
 - data/preparation -> contains all data needed in preparation stage. In data/preparation/IMIpdfs the original pdfs can be found. 
 - data/results -> contains all the results from the steps that needed to be saved in between steps.
+
+### Event class definitions
+| Class                        | Description                                                                                                                            | N |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Decision made                | Date on which a decision has been made about the request. It is usually the first date and it is always the date of the letter itself. | 100 |
+| Request made                 | Date on which the requester submitted the Woo request.                                                                                 | 95  |
+| Request received             | Date on which the request has been received by the government organisation.                                                            | 38  |
+| Cofirmation request received | Date on which the government organsation confirmed to the requester that the Woo request has been received.                            | 83  |
+| Decision period adjourned    | Date on which the decision period has been adjourned, moved or extended.                                                               | 40  |
+| Take effect of Woo           | On 1 may 2020 the Woo took effect and replaced the Wob. This action is named often in the decision letters.                            | 32  |
+| Contact                      | Date on which communication took place between two parties.                                                                            | 86  |
+| Other                        | Every date that has an event, but does not belong in one of the above-stated classes                                                   | 51  |
 
 ### Example prompts
 To give an idea about how the prompts looked, we give an example for each of the ChatGPT prompts. The original prompts are in Dutch, but we translated them to English. 
