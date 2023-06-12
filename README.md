@@ -13,3 +13,6 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 ### Content of the files
 main.ipynb -> notebook where the different steps get connected + evaluated.
 demo.ipynb -> notebook where a demostration can be run.
+code/descriptives.ipynb -> notebook with descriptive statistics of dataset + predictions of chatGPT
+code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
+#### data folder
