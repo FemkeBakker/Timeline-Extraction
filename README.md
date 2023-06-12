@@ -2,7 +2,7 @@
 This repository contains code for extracting timeline from government decision letters using ChatGPT. 
 
 In this read me you can find the following things:
-1. Instruction for the demo
+1. Instruction for the demo 
 2. Explanation of the content of the different files
 3. Event class definitions
 4. Example prompts
