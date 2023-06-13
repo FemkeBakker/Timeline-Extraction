@@ -11,6 +11,10 @@ Next, we will take a look at the predicted event phrases by chatGPT. There were 
 
 ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/2b825220-f50d-484a-abd6-bc9c4882485b) ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/beef30ce-7f6e-438b-93ed-45728b7a30e6)
 
+Then, we would also like to compare the predictions of the event-classes and the ground truth. Fig 1. already shows the distribution of the classes in the ground truth. 
+
+![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/bcf6644f-9c47-4414-bbbe-5a3bf5ebfb69)
+
 
 
 
