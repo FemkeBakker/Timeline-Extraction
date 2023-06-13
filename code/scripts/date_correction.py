@@ -1,9 +1,3 @@
-""" Classify if a date is part of an date-event combination
-Meaning: 
-- if the event of the date is stated in the sentence, return True.
-- if the event of the date is not stated in the sentence, return False.
-"""
-# from scripts.sentences_py import select_sentences, edit_text, load_text
 try:
     from sentences_py import select_sentences, edit_text, load_text
 except ModuleNotFoundError:
@@ -66,13 +60,6 @@ def get_first_results(path):
     documents, ids = load_text(path)
     result_dict = dict()
 
-    # indices = [i for i, num in enumerate(ids) if num in [74]]
-    # ids = [ids[i] for i in indices]
-    # documents = [documents[i] for i in indices]
-
-    # documents = documents[5:6]
-    # ids = ids[5:6]
-
     for i in range(len(ids)):
         doc = documents[i]
         id = ids[i]
@@ -91,7 +78,6 @@ def get_first_results(path):
             results.extend(extract_dates(sentences[i], text, sentences[i-1]))
 
         # do no select first sentence -> title & id
-        # result_dict[id] = results[1:]
         result_dict[id] = results
          
 
@@ -195,10 +181,6 @@ def get_second_results(first_results):
         for k in first_results[i]:
             doc = correct_dates(k)
             second_results.loc[len(second_results.index)] = [i, doc[0], doc[1], doc[7], doc[2], doc[3], doc[5], doc[6],doc[4]] 
-
-    # os.makedirs(path, exist_ok=True)
-
-    # second_results.to_csv(f"{path}/single_dates.csv")
     return second_results
 
 def correct_dubble_dates(df_results):
@@ -258,7 +240,6 @@ def correct_dubble_dates(df_results):
     
     new_results = new_results.drop(remove_list)
 
-    # return cor_dates, new_results, remove_list
     return new_results
 
 def uncorrected_dates(path, new_path, label):
@@ -281,36 +262,6 @@ def remove_non_dates(df):
 
     return df_copy
 
-# def accuracy_dates(gt, results):
-#     # only test relevant dates
-#     # gt = gt.loc[gt['label'] != 'DATE+']
-#     ids = list(set(gt['doc_id'].values))
-
-#     tot = len(gt)
-#     corr = 0
-#     not_found = 0
-
-#     for doc_id in ids:
-#         gt_doc = gt.loc[gt['doc_id'] == doc_id]
-#         res_doc = results.loc[results['doc_id'] == doc_id]
-
-#         for index, row1 in gt_doc.iterrows():
-#             found = False
-#             for index, row2 in res_doc.iterrows():
-#                 if row1['text'] == row2['date'] and row1['start'] == row2['start_in_text'] and row1['end'] == row2['end_in_text'] and row1['sentence'] == row2['sentence']:
-#                 # if row1['text'] == row2['date'] and row1['start'] == row2['start_in_text'] and row1['end'] == row2['end_in_text']:
-
-#                     corr+=1
-#                     found = True
-#                     break
-
-#             if found == False:
-#                 not_found += 1
-#     #             print(row1)
-#     # print(not_found)
-
-#     accuracy = corr/tot
-#     return accuracy, not_found
 
 def accuracy_dates(gt, results):
     ids = list(set(gt['doc_id'].values))
@@ -328,22 +279,16 @@ def accuracy_dates(gt, results):
             found = False
             for index, row2 in res_doc.iterrows():
                 if row1['text'] == row2['date'] and row1['start'] == row2['start_in_text'] and row1['end'] == row2['end_in_text'] and row1['sentence'] == row2['sentence']:
-                # if row1['text'] == row2['date'] and row1['start'] == row2['start_in_text'] and row1['end'] == row2['end_in_text']:
-
                     corr+=1
                     found = True
                     break
 
             if found == False:
                 not_found += 1
-                # print(row1)
 
                 for index, row2 in res_doc.iterrows():
                     if (row1['start'] == row2['start_in_text'] or row1['end'] == row2['end_in_text']) and row1['sentence'] == row2['sentence']:
                         results_copy = results_copy.drop(index)
-
-                # display(res_doc)
-    # print(not_found)
 
 
     accuracy = corr/tot

@@ -24,18 +24,12 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     return response.choices[0].message["content"]
 
 """Generate text with date to classify"""
-def ask_sentences(dates, sentences):
-     # dates = list of dates
-    # sentences = list of sentences
-    # order of these lists is important, indexes match
-    
+def ask_sentences(dates, sentences): 
     text = ""
 
     for i in range(len(dates)):
         text += f"{i+1}. Date = {dates[i]}\n"
         text += f"  - sentence = '{sentences[i]}'\n"
-                # text += f"SENTENCE = {sentences[i]}\n"
-        # text += "\n"
     return text
 
 def tokenize_strings(strings):
@@ -140,13 +134,10 @@ def run_prompts(df, run_id, path, class_dict, api_option):
             
                 # select rows of batch_size to prompt
                 batch = df.iloc[i:i+batch_size]
-                # display(batch)
-
                 prompt = get_prompt(batch, class_dict)
 
                 # ask chatgpt
                 result = get_completion(prompt)
-                # print(f"Raw result: {result}")
 
                 # select result and turn into list
                 start_index = result.find('[')
@@ -158,11 +149,9 @@ def run_prompts(df, run_id, path, class_dict, api_option):
                 else:
                     result = extract_classes(result, classes)
 
-                # print(result)
 
                 # get end time of running batch
                 end_time = time.time()
-                # print(f"final result:{result}")
 
               
                 # add info to dataframe
@@ -205,15 +194,12 @@ def run_prompts(df, run_id, path, class_dict, api_option):
 
     if not os.path.isfile(filepath):
         df_copy.to_csv(filepath, index=False)
-        # print(f"file created{filepath}")
 
     else:
         df_csv = pd.read_csv(filepath)
         df_csv = pd.concat([df_csv, df_copy])
         df_csv.to_csv(filepath, index=False)
-        # print(f"run of doc added")
 
-    # display(df_copy)
     return None
 
 def run(df,  runs, path, gt, api_option):
@@ -226,7 +212,6 @@ def run(df,  runs, path, gt, api_option):
         for k in range(runs):
             start_time = time.time()
 
-            # print(f"k original: {k}")
             class_dict = important_tokens(gt)
 
             run_prompts(df_doc, k, path, class_dict, api_option)
@@ -273,99 +258,3 @@ def evaluate(df, gt):
 
     # return dataframe with ground truth
     return df_copy
-
-# def average_jaccard_similarity(sentences1, sentences2):
-#     nlp = spacy.load("nl_core_news_sm")
-#     similarity_scores = []
-#     num_pairs = min(len(sentences1), len(sentences2))
-    
-#     for i in range(num_pairs):
-#         doc1 = nlp(sentences1[i])
-#         doc2 = nlp(sentences2[i])
-        
-#         set1 = set(token.text for token in doc1)
-#         set2 = set(token.text for token in doc2)
-        
-#         similarity = len(set1.intersection(set2)) / len(set1.union(set2))
-#         similarity_scores.append(similarity)
-
-#     similar_sent = [score for score in similarity_scores if score >= 0.5 ]
-#     fraction_50 = len(similar_sent)/len(similarity_scores)
-#     similar_sent = [score for score in similarity_scores if score >= 0.75 ]
-#     fraction_75 = len(similar_sent)/len(similarity_scores)
-#     similar_sent = [score for score in similarity_scores if score >= 1 ]
-#     fraction_100 = len(similar_sent)/len(similarity_scores)
-#     average = sum(similarity_scores)/len(similarity_scores)
-    
-#     return average, fraction_50 , fraction_75, fraction_100
-
-
-# def evaluate(df, gt):
-#     truths_class = []
-#     comparison = pd.DataFrame(columns=['doc_id','date', 'prediction_class', 'truth', 'sentence'])
-#     df_copy = df.copy()
-#     for index, row in df.iterrows():
-#         truth = False
-#         # gt_row = gt.loc[(gt['text'] == row['date']) & (gt['sentence'] == row['sentence']) & (gt['start'] == row['start_in_text']) & (gt['end'] == row['end_in_text'])]
-#         gt_row = gt.loc[(gt['text'] == row['date']) & (gt['start'] == row['start_in_text']) & (gt['end'] == row['end_in_text'])]
-#         if len(gt_row) > 1:
-#             print("error message: more then one match with ground truth")
-
-#         elif len(gt_row) == 1:
-#             truth = True
-
-#         comparison.loc[len(comparison.index)] = [row['doc_id'],row['date'], row['prediction_class'], truth, row['sentence']]
-
-#         truths_class.append(truth)
-
-#     report = classification_report(truths_class, list(df['prediction_class'].values))
-#     print(report)
-
-#     df_copy['truth'] = truths_class
-#     tn, fp, fn, tp = confusion_matrix(truths_class, list(df['prediction_class'].values)).ravel()
-#     values = {"fp": fp, "tp":tp, "fn":fn, "tn":tn}
-#     print(values)
-
-#     df_sim = df_copy.loc[df_copy['truth'] == True]
-#     df_sim = df_sim.loc[~df_sim['prediction_event'].isin(["None", np.nan])]
-    
-
-
-#     truths_events = []
-#     for index, row in df_sim.iterrows():
-#         gt_row = gt.loc[(gt['text'] == row['date']) & (gt['start'] == row['start_in_text']) & (gt['end'] == row['end_in_text'])]
-
-#         if len(gt_row) == 0:
-#             print("error: date missing in gt")
-#         elif len(gt_row) > 1:
-#             print("error: duplicate rows in gt")
-#         else:
-
-#             truths_events.append(gt_row['event'].values[0])
-
-
-#     df_sim = df_sim.copy()
-#     df_sim['truth_event'] = truths_events
-#     print(f"Total dates with an event of which ChatGPT extracted an event phrase: {len(df_sim)}")
-
-#     average, fraction_50 , fraction_75, fraction_100 = average_jaccard_similarity(list(df_sim['truth_event'].values), list(df_sim['prediction_event'].values))
-#     print(f"Average jaccard similarity: {round(average*100, 3)}% \n Fraction of dates that overlap >= 50%: {round(fraction_50*100, 3)}% \n Fraction of dates that overlap >= 75%: {round(fraction_75*100,3)}% \n Fraction of dates that overlap = 100%: {round(fraction_100*100,3)}% ")
-#     return df_copy
-
-# import nltk
-# def has_verb(text):
-#     try:
-#         tokens = nltk.word_tokenize(text)
-#         tags = nltk.pos_tag(tokens)
-#         for _, tag in tags:
-#             if tag.startswith('VB'):
-#                 return True
-            
-#         return False
-#     except TypeError:
-#         return False
-    
-# def add_verb_column(df):
-#     verb_tokens = ['verzocht', 'bevestigd', 'ingediend', 'vervangen', 'ontvangen', 'verdaagd', 'getreden', 'ingetrokken', 'geïnformeerd', 'betrokken', 'gesteld', 'geven', 'gevraagd', 'maken', 'gesproken', 'gehad']
-#     df['verb'] = df['prediction_event'].str.contains('|'.join(verb_tokens))
-#     return df

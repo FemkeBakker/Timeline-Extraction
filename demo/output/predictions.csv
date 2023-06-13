@@ -1,5 +1,5 @@
 doc_id,date,label,corrected,start_in_text,end_in_text,start_in_sent,end_in_sent,sentence,decisiondate,id,prediction_event,prediction_class,batch,batch_runtime,run_id,prompt
-0,6 oktober 2021,DATE,False,158,172,19,33,", In uw e-mail van 6 oktober 2021 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld.",False,1,u heeft met een beroep op de Wet openbaarheid van bestuur verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld,True,0,8.555186986923218,0,"
+0,6 oktober 2021,DATE,False,158,172,19,33,", In uw e-mail van 6 oktober 2021 heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld.",False,1,u heeft met een beroep op de Wet openbaarheid van bestuur verzocht om informatie over diertellingen van het bedrijf Bredesteeg 37 te Echteld,True,0,8.282439947128296,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -34,7 +34,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,13 oktober 2021,DATE,False,410,425,78,93,Procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij brief van 13 oktober 2021 met kenmerk WOB/2021/252.,False,2,De ontvangst van uw verzoek is schriftelijk bevestigd,True,0,8.555186986923218,0,"
+0,13 oktober 2021,DATE,False,410,425,78,93,Procedure De ontvangst van uw verzoek is schriftelijk bevestigd bij brief van 13 oktober 2021 met kenmerk WOB/2021/252.,False,2,De ontvangst van uw verzoek is schriftelijk bevestigd,True,0,8.282439947128296,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -69,7 +69,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,3 februari 2022,DATE,False,471,486,16,31,In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.,False,3,de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden,True,0,8.555186986923218,0,"
+0,3 februari 2022,DATE,False,471,486,16,31,In de brief van 3 februari 2022 is aan u medegedeeld dat de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden.,False,3,de beslistermijn met twee weken is verlengd vanwege het vragen van zienswijzen aan derden,True,0,8.282439947128296,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -104,7 +104,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,3 februari 2022,DATE,False,766,781,56,71,Zienswijzen U bent er over geïnformeerd in de brief van 3 februari 2022 dat er een derde belanghebbende is bij de openbaarmaking van het document en dat deze in de gelegenheid is gesteld hierover zijn of haar zienswijze te geven.,False,4,er is een derde belanghebbende bij de openbaarmaking van het document en deze heeft zienswijzen gegeven,False,0,8.555186986923218,0,"
+0,3 februari 2022,DATE,False,766,781,56,71,Zienswijzen U bent er over geïnformeerd in de brief van 3 februari 2022 dat er een derde belanghebbende is bij de openbaarmaking van het document en dat deze in de gelegenheid is gesteld hierover zijn of haar zienswijze te geven.,False,4,er is een derde belanghebbende bij de openbaarmaking van het document en dat deze in de gelegenheid is gesteld hierover zijn of haar zienswijze te geven,False,0,8.282439947128296,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -139,7 +139,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,943,956,0,13,11 maart 2022 Onze referentie Overwegingen WOB/2021/252 Algemene overweging: openbaarheid t.a.v.,False,5,openbaarheid t.a.v.,False,0,8.555186986923218,0,"
+0,11 maart 2022,DATE,False,943,956,0,13,11 maart 2022 Onze referentie Overwegingen WOB/2021/252 Algemene overweging: openbaarheid t.a.v.,False,5,algemene overweging: openbaarheid t.a.v.,False,0,8.282439947128296,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -174,7 +174,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,1087,1100,44,57,Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.,False,6,None,True,1,3.2525527477264404,0,"
+0,11 maart 2022,DATE,False,1087,1100,44,57,Gebruikt u dit nummer als u contact met ons 11 maart 2022 heeft.,False,6,None,False,1,7.552900314331055,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -209,7 +209,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,True,1183,1196,72,85,"Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.",False,7,verzoek openbaarmaking gegevens,False,1,3.2525527477264404,0,"
+0,11 maart 2022,DATE,True,1183,1196,72,85,"Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Datum 11 maart 2022 Onze referentie WOB/2021/252 Relevante artikelen uit de Wob Bijlage nummer 1 Horend bij Verzoek openbaarmaking gegevens Datum Onze referentie WOB/2021/252 Contactpersoon Relevante artikelen uit de Wob Artikel 1 In deze wet en de daarop berustende bepalingen wordt verstaan onder: a. document: een bij een bestuursorgaan berustend schriftelijk stuk of ander materiaal dat gegevens bevat; b. bestuurlijke aangelegenheid: een aangelegenheid die betrekking heeft op beleid van een bestuursorgaan, daaronder begrepen de voorbereiding en de uitvoering ervan; c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid; d. niet-ambtelijke adviescommissie: een van overheidswege ingestelde instantie, met als taak het adviseren van een of meer bestuursorganen en waarvan geen ambtenaren lid zijn, die het bestuursorgaan waaronder zij ressorteren adviseren over de onderwerpen die aan de instantie zijn voorgelegd.",False,7,Verzoek openbaarmaking gegevens,True,1,7.552900314331055,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -244,7 +244,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,2276,2289,0,13,11 maart 2022 2.,False,8,None,True,1,3.2525527477264404,0,"
+0,11 maart 2022,DATE,False,2276,2289,0,13,11 maart 2022 2.,False,8,2.,False,1,7.552900314331055,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -279,7 +279,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,2494,2507,198,211,"Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.",False,9,None,False,1,3.2525527477264404,0,"
+0,11 maart 2022,DATE,False,2494,2507,198,211,"Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door: Datum a. kopie ervan te geven of de letterlijke inhoud ervan in andere vorm te 11 maart 2022 verstrekken, Onze referentie b. kennisneming van de inhoud toe te staan, WOB/2021/252 c. een uittreksel of een samenvatting van de inhoud te geven, of d. inlichtingen daaruit te verschaffen.",False,9,Het bestuursorgaan verstrekt de informatie met betrekking tot de documenten die de verlangde informatie bevatten door,True,1,7.552900314331055,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -314,7 +314,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,2802,2815,100,113,"Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.",False,10,None,False,1,3.2525527477264404,0,"
+0,11 maart 2022,DATE,False,2802,2815,100,113,"Voorts blijft in Datum afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- 11 maart 2022 informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet Onze referentie opweegt tegen het daar genoemde belang.",False,10,"Voorts blijft in afwijking van het eerste lid, aanhef en onder c, het verstrekken van milieu- informatie uitsluitend achterwege voorzover het belang van openbaarmaking niet opweegt tegen het daar genoemde belang.",True,1,7.552900314331055,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.
@@ -349,7 +349,7 @@ Voorbeeld output:
 - gebeurtenis_omschrijving = ['beslistermijn is met vier weken verdaagd', 'None', 'vraagt u om de stand van zaken', 'None', 'None']
 
     "
-0,11 maart 2022,DATE,False,3063,3076,109,122,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.,False,11,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens,True,2,2.8681416511535645,0,"
+0,11 maart 2022,DATE,False,3063,3076,109,122,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens Datum 11 maart 2022 Bijlage nummer 2 Onze referentie Horend bij Verzoek openbaarmaking gegevens WOB/2021/252 Datum Onze referentie WOB/2021/252 Contactpersoon Inventarislijst opgevraagde gegevens Nummer Document WOB Art.,False,11,Rijksdienst voor Ondernemend Nederland Vergunningen en Handhaving Inventarislijst opgevraagde gegevens,True,2,4.193937540054321,0,"
 Gegeven de volgende zinnen en datums, voer twee taken uit:
 - Taak 1: Vind de beschrijving van de gebeurtenis in de zin voor de betreffende datum. 
 De gebeurtenisomschrijving zijn woorden in de zin die beschrijven wat er op die datum is gebeurd.

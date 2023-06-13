@@ -3,16 +3,16 @@ import os
 import pandas as pd
 import time
 from sklearn.metrics import *
-import nltk
-import warnings
+# import nltk
+# import warnings
 import numpy as np
-from itertools import chain
+# from itertools import chain
 import json
 import spacy
 import math
 from collections import Counter
 import string
-import nltk
+# import nltk
 from nltk.corpus import stopwords
 
 """Gets response of chatGPT using API"""
@@ -234,8 +234,6 @@ def run(df, runs, path, gt, api_option):
         for k in range(runs):
             start_time = time.time()
 
-            # print(f"k original: {k}")
-
             # get import verbs
             class_dict = verb_tokens(gt)
             
@@ -256,35 +254,7 @@ def run(df, runs, path, gt, api_option):
                 df_csv = pd.concat([df_csv, df_time])
                 df_csv.to_csv(filepath, index=False)
 
-# evaluate performance of chatgpt classification of event
-# def evaluate(df, gt):
-#     truths = []
-#     for index, row in df.iterrows():
 
-#         # select row in ground truth that matches the current date
-#         gt_row = gt.loc[(gt['text'] == row['date']) & (gt['doc_id'] == row['doc_id']) & (gt['sentence']==row['sentence']) & (gt['start']==row['start_in_text']) & (gt['end']==row['end_in_text'])]
-        
-#         # if more than one row is selected from the ground truth, this means that the ground truth is not unique
-#         if len(gt_row) > 1:
-#             print("error. non unique gt")
-
-#         # if no rows get selected that means the date does not have an event
-#         elif len(gt_row) == 0:
-#             print("error. missing gt")
-#             print(row)
-#         else:
-#             truths.append(gt_row.iloc[0]['class'])
-
-#     # save truths in dataframe
-#     df_copy = df.copy()
-#     df_copy['truth'] = truths
-
-#     # print out evaluation metrics
-#     report = classification_report(truths, list(df['prediction'].values))
-#     print(report)
-
-#     # return dataframe with ground truth
-#     return df_copy
 
 def average_jaccard_similarity(sentences1, sentences2):
     nlp = spacy.load("nl_core_news_sm")

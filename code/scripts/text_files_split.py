@@ -15,10 +15,6 @@ def get_test_train_ids():
 
 """ Split folder into text and training folder """
 def split_txt_files(source_folder, train, test):
-    # source_folder = "data/IMI_txt_0.1/"
-    # train = "data/IMI_txt_train_0.1"
-    # test = "data/IMI_txt_test_0.1"
-
     train_ids, test_ids = get_test_train_ids()
 
     # Create the destination folders if they don't exist

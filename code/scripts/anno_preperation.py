@@ -1,5 +1,3 @@
-# from scripts.filter import filter_and_extract
-# from scripts.sentences_py import load_text, edit_docs
 from filter import filter_and_extract
 from sentences_py import load_text, edit_docs
 
@@ -7,7 +5,6 @@ from sentences_py import load_text, edit_docs
 
 # filter pdfs based on image- or textbased, using threshold = 0.1
 # convert pdf into txt files, save files in IMI_txt_0.1
-
 filter_and_extract("data/preparation/IMIpdfs", "data/preparation/txt_files/IMI_txt_0.1", 0.1)
 
 # filter out sentences that do not have date, 
