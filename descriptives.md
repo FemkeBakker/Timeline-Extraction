@@ -7,7 +7,7 @@ Now, we will dive a little deeper into the predictions of the algorithm. First, 
 
 ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/ea86461e-1683-4f4d-a737-63c433baa62e) ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/54d500ff-bc37-4df3-9f02-8034e6e3bea7)
 
-Next, we will take a look at the predicted event phrases by chatGPT. There were 144 dates with an event in the ground of which ChatGPT also extracted an event phrase. ChatGPT did not extract an event phrase from the other dates with an event. Fig 5. shows the unique token length of the event phrases from the ground truth. We selected the same 144 dates with an event which ChatGPT predicted. Fig 6. shows the unique token length of the predictions of ChatGPT for dates with an event. In those plots we can see that in general the predictions of ChatGPT are shorter than the ground truth.
+Next, we will take a look at the predicted event phrases by chatGPT. There were 144 dates with an event in the ground of which ChatGPT also extracted an event phrase. ChatGPT did not extract an event phrase from the other dates with an event. Fig 5. shows the unique token length of the event phrases from the ground truth. We selected the same 144 dates with an event which ChatGPT predicted. Fig 6. shows the unique token length of the predictions of ChatGPT for dates with an event.
 
 ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/2b825220-f50d-484a-abd6-bc9c4882485b) ![image](https://github.com/FemkeBakker/Timeline-Extraction/assets/70972237/beef30ce-7f6e-438b-93ed-45728b7a30e6)
 
