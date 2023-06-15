@@ -35,9 +35,6 @@ def is_month_before(date1, date2):
 
                 else:
                     date1 = f"{date1} {int(decision_year)-1}"
-
-        
-
     else: 
         print("decision has no year", date2)
 

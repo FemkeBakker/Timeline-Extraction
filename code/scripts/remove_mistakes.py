@@ -26,7 +26,6 @@ def remove_no_event_dates(df, gt):
             print("error: not unique row in ground truth")
 
         if len(gt_row) == 0:
-            # print(row.name)
             df_copy = df_copy.drop(row.name)
 
         elif gt_row.iloc[0]['label'] == 'DATE+':
