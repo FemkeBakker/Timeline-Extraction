@@ -32,7 +32,7 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 | Request received             | Date on which the request has been received by the government organisation.                                                            | 38  |
 | Cofirmation request received | Date on which the government organsation confirmed to the requester that the Woo request has been received.                            | 83  |
 | Decision period adjourned    | Date on which the decision period has been adjourned, moved or extended.                                                               | 40  |
-| Take effect of Woo           | On 1 may 2020 the Woo took effect and replaced the Wob. This action is named often in the decision letters.                            | 32  |
+| Take effect of Woo           | On 1 may 2020 the Woo took effect and replaced the Wob (former law).                   | 32  |
 | Contact                      | Date on which communication took place between two parties.                                                                            | 86  |
 | Other                        | Every date that has an event, but does not belong in one of the above-stated classes                                                   | 51  |
 
