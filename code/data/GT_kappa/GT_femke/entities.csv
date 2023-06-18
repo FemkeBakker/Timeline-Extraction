@@ -1,0 +1,1685 @@
+id,label,start,end,text,doc_id
+4967,DATE+,84,92,379 8911,259
+4968,c: besluit datum,188,205,13 september 2022,259
+4969,DATE+,253,269,19 november 2021,259
+4970,c: verzoek datum,373,389,19 november 2021,259
+4971,c: verzoek ontvangen,413,429,19 november 2021,259
+4972,c: ontvangst verzoek bevestigd,621,637,30 november 2021,259
+4973,DATE+,747,762,14 januari 2022,259
+4974,DATE+,798,822,downloadlink zeven dagen,259
+5262,ID,9,12,259,259
+5263,title,25,73,Besluit_Woo-verzoek_inzake_de_eiwittransitie.pdf,259
+5264,event,182,187,Datum,259
+5265,event,400,409,ontvangen,259
+5266,event,431,543,"heeft u het ministerie van Landbouw, Natuur en Voedselkwaliteit gevraagd Bijlage(n) informatie openbaar te maken",259
+5267,event,638,705,heeft u bericht ontvangen dat uw verzoek in goede orde is ontvangen,259
+4975,c: besluit datum,128,140,30 juni 2022,269
+4976,c: verzoek datum,242,255,11 april 2022,269
+4977,DATE+,385,389,2013,269
+4978,DATE+,391,395,2014,269
+4979,DATE+,399,403,2017,269
+4980,c: ontvangst verzoek bevestigd,521,534,15 april 2022,269
+4981,DATE+,601,612,23 mei 2022,269
+4982,c: inwerking treden van Woo,636,646,1 mei 2022,269
+4983,DATE+,798,810,30 juni 2022,269
+4984,DATE+,1042,1054,30 juni 2022,269
+4985,DATE+,1149,1161,30 juni 2022,269
+4986,DATE+,1307,1319,30 juni 2022,269
+4987,DATE+,2295,2307,30 juni 2022,269
+4988,DATE+,2354,2358,2013,269
+4989,DATE+,2360,2364,2014,269
+4990,DATE+,2368,2372,2017,269
+5268,ID,9,12,269,269
+5270,title,25,69,Besluit_woo_gecombineerde-opgaven_boksum.pdf,269
+5271,event,121,127,D atum,269
+5272,event,257,350,"heeft u, met een beroep op de Wet openbaarheid van bestuur (hierna: Wob), informatie verzocht",269
+5275,event,646,713, is de Wob ingetrokken en vervangen door de Wet open overheid (Woo),269
+8271,event,456,516,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,269
+4991,DATE+,88,95,22-0359,262
+4992,c: besluit datum,113,129,23 augustus 2022,262
+4993,DATE+,166,173,22-0359,262
+4994,c: verzoek datum,197,208,11 mei 2022,262
+4995,c: ontvangst verzoek bevestigd,393,404,11 mei 2022,262
+4996,c: overig,480,491,8 juni 2022,262
+4997,c: contact,602,613,1 juli 2022,262
+4998,c: inwerking treden van Woo,705,715,1 mei 2022,262
+4999,DATE+,855,862,22-0359,262
+5000,DATE+,1014,1021,22-0359,262
+5001,DATE+,1228,1235,22-0359,262
+5002,DATE+,1321,1337,16 februari 2011,262
+5003,DATE+,1692,1707,2 februari 2022,262
+5004,DATE+,2142,2149,22-0359,262
+5005,DATE+,2267,2274,22-0359,262
+5006,DATE+,2428,2440,1 april 2008,262
+5007,DATE+,2586,2593,22-0359,262
+5008,DATE+,2894,2901,22-0359,262
+5279,ID,9,12,262,262
+5280,title,25,67,besluit_Woo-verzoek_ongeval_trampoline.pdf,262
+5281,event,100,112,Verzonden op,262
+5282,event,210,316,heeft u de Nederlandse Voedsel en Warenautoriteit (hierna: NVWA) gevraagd om het rapport openbaar te maken,262
+5283,event,405,472,heeft u bericht ontvangen dat uw verzoek in goede orde is ontvangen,262
+5284,event,492,569,heb ik aangegeven dat de beoordeling van uw verzoek meer tijd in beslag neemt,262
+5287,event,614,627,contact gehad,262
+5288,event,574,598,Over dit verzoek heeft u,262
+5289,event,716,776,is echter de Woo inwerking getreden en is de Wob ingetrokken,262
+5009,c: besluit datum,131,142,8 juli 2022,271
+5010,c: verzoek datum,164,176,5 april 2022,271
+5011,c: verzoek ontvangen,200,212,6 april 2022,271
+5012,c: overig,377,389,2 maart 2022,271
+5013,c: ontvangst verzoek bevestigd,583,593,4 mei 2022,271
+5014,c: overig,601,613,16 juni 2022,271
+5015,c: inwerking treden van Woo,727,737,1 mei 2022,271
+5016,c: inwerking treden van Woo,830,835,1 mei,271
+5017,DATE+,872,885,10 maart 2022,271
+5018,DATE+,994,1002,28/02/22,271
+5019,DATE+,1158,1164,morgen,271
+5020,DATE+,1374,1382,28/02/22,271
+5021,DATE+,1675,1683,28/02/22,271
+5022,DATE+,1754,1762,27/02/22,271
+5023,DATE+,2214,2222,28/02/22,271
+5024,DATE+,2335,2343,01/03/22,271
+5025,DATE+,2363,2367,28/2,271
+5026,DATE+,2432,2439,2 maart,271
+5027,DATE+,2465,2469,2022,271
+5290,ID,9,12,271,271
+5291,title,25,99,Besluit_Woo_verzoek_toegang_Russische_nieuwsbronnen_edited___sanitized.pdf,271
+5292,event,125,130,Datum,271
+5293,event,187,196,ontvangen,271
+5294,event,214,300,met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) om informatie verzocht,271
+5297,event,524,579,ontvangst van uw verzoek is per e-mailbericht bevestigd,271
+5298,event,614,716,heeft u mij in gebreke gesteld nu u nog geen besluit heeft ontvangen en de beslistermijn is verstreken,271
+5299,event,738,769,is de Wob vervangen door de Woo,271
+5300,event,839,848,Woo geldt,271
+7797,event,339,373,verordening die de Raad van Europa,271
+7798,event,390,401,publiceerde,271
+8270,event,155,160,heeft,271
+5028,c: besluit datum,126,137,13 mei 2022,267
+5029,c: verzoek datum,241,256,1 februari 2022,267
+5030,DATE+,428,432,2003,267
+5031,DATE+,444,448,2022,267
+5032,DATE+,652,660,mei 2003,267
+5033,DATE+,672,676,2022,267
+5034,c: ontvangst verzoek bevestigd,813,828,2 februari 2022,267
+5035,c: inwerking treden van Woo,852,862,1 mei 2022,267
+5036,DATE+,977,988,13 mei 2022,267
+5037,DATE+,1104,1115,13 mei 2022,267
+5038,DATE+,1180,1191,13 mei 2022,267
+5039,DATE+,1305,1316,13 mei 2022,267
+5040,DATE+,1406,1417,13 mei 2022,267
+5041,DATE+,1814,1825,13 mei 2022,267
+5042,DATE+,2584,2595,13 mei 2022,267
+5043,DATE+,2989,3000,13 mei 2022,267
+5044,DATE+,3133,3144,13 mei 2022,267
+5045,DATE+,3350,3356,9 9551,267
+5046,DATE+,3397,3405,1-jan-03,267
+5047,DATE+,3415,3427,165 1-feb-03,267
+5048,DATE+,3573,3581,1-sep-03,267
+5049,DATE+,3683,3691,1-feb-04,267
+5050,DATE+,3793,3801,1-jul-04,267
+5051,DATE+,3811,3823,200 1-aug-04,267
+5052,DATE+,4075,4087,208 1-aug-05,267
+5053,DATE+,4298,4306,1-jun-06,267
+5054,DATE+,4426,4438,203 1-dec-06,267
+5055,DATE+,4778,4790,215 1-apr-08,267
+5056,DATE+,4954,4966,230 1-dec-08,267
+5057,DATE+,5437,5449,229 1-okt-10,267
+5058,DATE+,5947,5955,1-sep-12,267
+5059,DATE+,6075,6087,215 1-mrt-13,267
+5060,DATE+,6294,6306,225 1-jan-14,267
+5061,DATE+,6822,6834,251 1-jan-16,267
+5062,DATE+,6958,6966,1-jul-16,267
+5063,DATE+,6976,6988,227 1-aug-16,267
+5064,DATE+,7046,7054,1-nov-16,267
+5065,DATE+,7068,7076,1-dec-16,267
+5066,DATE+,7152,7164,227 1-apr-17,267
+5067,DATE+,7349,7361,221 1-jan-18,267
+5068,DATE+,7599,7607,1-apr-21,267
+5069,DATE+,7616,7624,1-mei-21,267
+5070,DATE+,7684,7692,1-sep-21,267
+5071,DATE+,7735,7743,1-dec-21,267
+5072,DATE+,7980,7986,9 9551,267
+5073,DATE+,8030,8034,2003,267
+5074,DATE+,8079,8083,2003,267
+5075,DATE+,8130,8134,2003,267
+5076,DATE+,8196,8200,2003,267
+5077,DATE+,8231,8237,1 JAAR,267
+5078,DATE+,8250,8254,2003,267
+5079,DATE+,8285,8291,1 JAAR,267
+5080,DATE+,8306,8310,2003,267
+5081,DATE+,8339,8347,120 2003,267
+5082,DATE+,8371,8379,207 2004,267
+5083,DATE+,8424,8428,2004,267
+5084,DATE+,8475,8479,2004,267
+5085,DATE+,8541,8545,2004,267
+5086,DATE+,8576,8582,1 JAAR,267
+5087,DATE+,8595,8599,2004,267
+5088,DATE+,8630,8636,1 JAAR,267
+5089,DATE+,8651,8655,2004,267
+5090,DATE+,8684,8692,121 2004,267
+5091,DATE+,8716,8724,196 2005,267
+5092,DATE+,8769,8773,2005,267
+5093,DATE+,8820,8824,2005,267
+5094,DATE+,8886,8890,2005,267
+5095,DATE+,8921,8927,1 JAAR,267
+5096,DATE+,8942,8946,2005,267
+5097,DATE+,8979,8983,2005,267
+5098,DATE+,9062,9066,2006,267
+5099,DATE+,9128,9132,2006,267
+5100,DATE+,9163,9169,1 JAAR,267
+5101,DATE+,9182,9186,2006,267
+5102,DATE+,9217,9223,1 JAAR,267
+5103,DATE+,9238,9242,2006,267
+5104,DATE+,9275,9279,2006,267
+5105,DATE+,9333,9337,2006,267
+5106,DATE+,9361,9369,220 2007,267
+5107,DATE+,9427,9433,2 2007,267
+5108,DATE+,9499,9505,1 2007,267
+5109,DATE+,9545,9551,3 2007,267
+5110,DATE+,9594,9600,1 2007,267
+5111,DATE+,9647,9651,2007,267
+5112,DATE+,9711,9718,13 2007,267
+5113,DATE+,9749,9755,1 JAAR,267
+5114,DATE+,9766,9772,2 2007,267
+5115,DATE+,9803,9809,1 JAAR,267
+5116,DATE+,9821,9828,28 2007,267
+5117,DATE+,9857,9865,109 2007,267
+5118,DATE+,9954,9960,2 2008,267
+5119,DATE+,10026,10032,2 2008,267
+5120,DATE+,10074,10078,2008,267
+5121,DATE+,10123,10127,2008,267
+5122,DATE+,10174,10178,2008,267
+5123,DATE+,10240,10244,2008,267
+5124,DATE+,10275,10281,1 JAAR,267
+5125,DATE+,10294,10298,2008,267
+5126,DATE+,10329,10335,1 JAAR,267
+5127,DATE+,10350,10354,2008,267
+5128,DATE+,10387,10391,2008,267
+5129,DATE+,10445,10449,2008,267
+5130,DATE+,10473,10481,218 2009,267
+5131,DATE+,10539,10545,1 2009,267
+5132,DATE+,10611,10617,1 2009,267
+5133,DATE+,10659,10663,2009,267
+5134,DATE+,10710,10714,2009,267
+5135,DATE+,10776,10780,2009,267
+5136,DATE+,10811,10817,1 JAAR,267
+5137,DATE+,10830,10834,2009,267
+5138,DATE+,10865,10871,1 JAAR,267
+5139,DATE+,10886,10890,2009,267
+5140,DATE+,10923,10927,2009,267
+5141,DATE+,10981,10985,2009,267
+5142,DATE+,11013,11017,2010,267
+5143,DATE+,11075,11081,1 2010,267
+5144,DATE+,11147,11153,1 2010,267
+5145,DATE+,11207,11211,2010,267
+5146,DATE+,11256,11260,2010,267
+5147,DATE+,11307,11311,2010,267
+5148,DATE+,11373,11377,2010,267
+5149,DATE+,11408,11414,1 JAAR,267
+5150,DATE+,11427,11431,2010,267
+5151,DATE+,11462,11468,1 JAAR,267
+5152,DATE+,11483,11487,2010,267
+5153,DATE+,11520,11524,2010,267
+5154,DATE+,11548,11556,226 2011,267
+5155,DATE+,11594,11600,3 JAAR,267
+5156,DATE+,11620,11626,1 2011,267
+5157,DATE+,11692,11698,1 2011,267
+5158,DATE+,11752,11756,2011,267
+5159,DATE+,11801,11805,2011,267
+5160,DATE+,11852,11856,2011,267
+5161,DATE+,11918,11922,2011,267
+5162,DATE+,11953,11959,1 JAAR,267
+5163,DATE+,11972,11976,2011,267
+5164,DATE+,12007,12013,1 JAAR,267
+5165,DATE+,12028,12032,2011,267
+5166,DATE+,12065,12069,2011,267
+5167,DATE+,12093,12101,220 2012,267
+5168,DATE+,12140,12146,3 JAAR,267
+5169,DATE+,12166,12172,1 2012,267
+5170,DATE+,12210,12216,3 JAAR,267
+5171,DATE+,12236,12242,2 2012,267
+5172,DATE+,12344,12348,2012,267
+5173,DATE+,12395,12399,2012,267
+5174,DATE+,12461,12465,2012,267
+5175,DATE+,12496,12502,1 JAAR,267
+5176,DATE+,12515,12519,2012,267
+5177,DATE+,12550,12556,1 JAAR,267
+5178,DATE+,12571,12575,2012,267
+5179,DATE+,12636,12644,220 2013,267
+5180,DATE+,12683,12689,3 JAAR,267
+5181,DATE+,12709,12715,1 2013,267
+5182,DATE+,12753,12759,3 JAAR,267
+5183,DATE+,12779,12785,1 2013,267
+5184,DATE+,12851,12857,1 2013,267
+5185,DATE+,12923,12929,2 2013,267
+5186,DATE+,12983,12987,2013,267
+5187,DATE+,13030,13036,1 2013,267
+5188,DATE+,13083,13087,2013,267
+5189,DATE+,13118,13124,1 JAAR,267
+5190,DATE+,13135,13141,1 2013,267
+5191,DATE+,13172,13178,1 JAAR,267
+5192,DATE+,13193,13197,2013,267
+5193,DATE+,13230,13234,2013,267
+5194,DATE+,13258,13266,216 2014,267
+5195,DATE+,13332,13338,3 2014,267
+5196,DATE+,13392,13396,2014,267
+5197,DATE+,13443,13447,2014,267
+5198,DATE+,13509,13513,2014,267
+5199,DATE+,13544,13550,1 JAAR,267
+5200,DATE+,13565,13569,2014,267
+5201,DATE+,13602,13606,2014,267
+5202,DATE+,13646,13650,2014,267
+5203,DATE+,13674,13682,220 2015,267
+5204,DATE+,13720,13726,3 JAAR,267
+5205,DATE+,13746,13752,2 2015,267
+5206,DATE+,13818,13824,1 2015,267
+5207,DATE+,13878,13882,2015,267
+5208,DATE+,13927,13931,2015,267
+5209,DATE+,13978,13982,2015,267
+5210,DATE+,14044,14048,2015,267
+5211,DATE+,14079,14085,1 JAAR,267
+5212,DATE+,14098,14102,2015,267
+5213,DATE+,14133,14139,1 JAAR,267
+5214,DATE+,14154,14158,2015,267
+5215,DATE+,14191,14195,2015,267
+5216,DATE+,14223,14227,2016,267
+5217,DATE+,14265,14271,3 JAAR,267
+5218,DATE+,14291,14297,2 2016,267
+5219,DATE+,14363,14369,1 2016,267
+5220,DATE+,14435,14441,1 2016,267
+5221,DATE+,14495,14499,2016,267
+5222,DATE+,14544,14548,2016,267
+5223,DATE+,14595,14599,2016,267
+5224,DATE+,14630,14636,1 JAAR,267
+5225,DATE+,14649,14653,2016,267
+5226,DATE+,14684,14690,1 JAAR,267
+5227,DATE+,14737,14745,141 2016,267
+5228,DATE+,14773,14777,2017,267
+5229,DATE+,14815,14821,3 JAAR,267
+5230,DATE+,14841,14847,1 2017,267
+5231,DATE+,14913,14919,3 2017,267
+5232,DATE+,14985,14991,1 2017,267
+5233,DATE+,15045,15049,2017,267
+5234,DATE+,15094,15098,2017,267
+5235,DATE+,15145,15149,2017,267
+5236,DATE+,15211,15215,2017,267
+5237,DATE+,15246,15252,1 JAAR,267
+5238,DATE+,15265,15269,2017,267
+5239,DATE+,15300,15306,1 JAAR,267
+5240,DATE+,15321,15325,2017,267
+5241,DATE+,15358,15362,2017,267
+5242,DATE+,15390,15394,2018,267
+5243,DATE+,15460,15466,5 2018,267
+5244,DATE+,15520,15524,2018,267
+5245,DATE+,15569,15573,2018,267
+5246,DATE+,15620,15624,2018,267
+5247,DATE+,15686,15690,2018,267
+5248,DATE+,15721,15727,1 JAAR,267
+5249,DATE+,15740,15744,2018,267
+5250,DATE+,15775,15781,1 JAAR,267
+5251,DATE+,15796,15800,2018,267
+5252,DATE+,15833,15837,2018,267
+5253,DATE+,15865,15869,2019,267
+5254,DATE+,15935,15941,2 2019,267
+5255,DATE+,16007,16013,1 2019,267
+5256,DATE+,16067,16071,2020,267
+5257,DATE+,16137,16143,2 2020,267
+5258,DATE+,16209,16215,1 2020,267
+5259,DATE+,16344,16348,2021,267
+5260,DATE+,16397,16401,2021,267
+5261,DATE+,16463,16467,2021,267
+5302,ID,9,12,267,267
+5303,title,25,67,Besluit_Woo_2022-021_landbouwtellingen.pdf,267
+5304,event,119,125,D atum,267
+5305,event,257,353,"heeft u, met een beroep op de Wet openbaarheid van bestuur (hierna: Wob), verzocht om informatie",267
+5309,event,863,929,is de Wob ingetrokken en vervangen door de Wet open overheid (Woo),267
+8265,event,748,808,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,267
+5310,c: besluit datum,220,233,29 april 2022,74
+5311,c: verzoek ontvangen,262,279,15 september 2021,74
+5312,c: verzoek datum,448,465,15 september 2021,74
+5313,DATE+,640,653,29 april 2022,74
+5314,DATE+,1328,1332,2001,74
+5315,DATE+,1362,1366,2001,74
+5316,DATE+,1476,1480,2001,74
+5317,DATE+,1678,1682,2001,74
+5318,DATE+,1823,1827,2001,74
+5319,DATE+,2007,2011,2001,74
+5320,DATE+,2369,2373,2001,74
+5321,DATE+,2506,2516,11-03-1953,74
+5322,DATE+,2577,2587,01-12-1954,74
+5323,DATE+,2680,2686,17-12-,74
+5324,DATE+,2687,2691,1997,74
+5325,DATE+,2769,2775,22 739,74
+5326,DATE+,2804,2814,06-06-1984,74
+5327,DATE+,3039,3049,14-08-1985,74
+5328,DATE+,3063,3071,1985/332,74
+5329,DATE+,3086,3096,04-01-1989,74
+5330,DATE+,3263,3273,20-09-1967,74
+5331,DATE+,3275,3281,261/67,74
+5332,DATE+,3425,3435,28-06-1989,74
+5333,DATE+,3553,3563,18-04-1990,74
+5334,DATE+,3774,3784,20-01-1989,74
+5335,DATE+,3798,3806,1990/172,74
+5336,DATE+,3963,3975,14 juni 1972,74
+5337,DATE+,3991,4006,23 januari 1957,74
+5338,DATE+,4026,4030,2001,74
+5339,DATE+,4090,4105,9 december 2011,74
+5340,DATE+,4429,4440,21 mei 1958,74
+5341,DATE+,4594,4605,6 juni 1995,74
+5342,DATE+,4804,4808,1941,74
+5343,DATE+,5225,5229,2001,74
+5344,DATE+,5481,5485,2001,74
+5345,DATE+,5503,5519,12 november 1975,74
+5346,DATE+,5576,5580,1964,74
+5347,DATE+,5827,5831,2001,74
+5348,DATE+,5967,5977,tien jaren,74
+5349,DATE+,6381,6387,27 209,74
+5350,DATE+,6609,6619,tien jaren,74
+5351,DATE+,7008,7012,2005,74
+5352,DATE+,7212,7216,2001,74
+5353,DATE+,7225,7229,2008,74
+5354,DATE+,7343,7358,9 december 2011,74
+5355,DATE+,7564,7579,9 december 2011,74
+5356,DATE+,7857,7872,9 december 2011,74
+5357,DATE+,8098,8102,2001,74
+5358,DATE+,8699,8703,2001,74
+5359,DATE+,8866,8876,tien jaren,74
+5360,DATE+,9276,9291,9 december 2011,74
+5361,DATE+,9432,9448,5 september 1986,74
+5362,DATE+,9469,9485,25 november 1998,74
+5363,DATE+,9506,9522,19 december 2003,74
+5364,DATE+,9681,9694,10 maart 2006,74
+5365,DATE+,9772,9785,10 maart 2006,74
+5366,DATE+,9843,9856,10 maart 2006,74
+5367,DATE+,9945,9960,9 december 2011,74
+5368,DATE+,10168,10172,2005,74
+5369,DATE+,10267,10282,9 december 2011,74
+5370,DATE+,10535,10547,3 april 1998,74
+5371,DATE+,10629,10645,13 december 2000,74
+5372,DATE+,10745,10760,9 december 2011,74
+5373,DATE+,10912,10927,5 december 2006,74
+5374,DATE+,10957,10972,5 december 2006,74
+5375,DATE+,11017,11028,10 mei 2004,74
+5376,DATE+,11078,11082,2004,74
+5377,DATE+,11104,11120,15 februari 2005,74
+5378,DATE+,11132,11136,2005,74
+5379,DATE+,11193,11209,13 december 2000,74
+5380,DATE+,11318,11322,2005,74
+5381,DATE+,11487,11491,2005,74
+5382,DATE+,11687,11702,9 december 2011,74
+5383,DATE+,11821,11836,9 december 2011,74
+5384,DATE+,11899,11912,10 maart 2006,74
+5385,DATE+,12007,12022,9 december 2011,74
+5386,DATE+,12116,12120,2001,74
+5387,DATE+,12717,12721,2001,74
+5388,DATE+,12884,12894,tien jaren,74
+5389,DATE+,13293,13308,9 december 2011,74
+5390,DATE+,13449,13465,5 september 1986,74
+5391,DATE+,13486,13502,25 november 1998,74
+5392,DATE+,13523,13539,19 december 2003,74
+5393,DATE+,13698,13711,10 maart 2006,74
+5394,DATE+,13789,13802,10 maart 2006,74
+5395,DATE+,13860,13873,10 maart 2006,74
+5396,DATE+,13961,13976,9 december 2011,74
+5397,DATE+,14184,14188,2005,74
+5398,DATE+,14283,14298,9 december 2011,74
+5399,DATE+,14697,14709,3 april 1998,74
+5400,DATE+,14791,14807,13 december 2000,74
+5401,DATE+,14907,14922,9 december 2011,74
+5402,DATE+,15074,15089,5 december 2006,74
+5403,DATE+,15119,15134,5 december 2006,74
+5404,DATE+,15179,15190,10 mei 2004,74
+5405,DATE+,15240,15244,2004,74
+5406,DATE+,15266,15282,15 februari 2005,74
+5407,DATE+,15294,15298,2005,74
+5408,DATE+,15355,15371,13 december 2000,74
+5409,DATE+,15480,15484,2005,74
+5410,DATE+,15648,15652,2005,74
+5411,DATE+,15848,15863,9 december 2011,74
+5412,DATE+,15982,15997,9 december 2011,74
+5413,DATE+,16060,16073,10 maart 2006,74
+5414,DATE+,16289,16303,1 januari 2018,74
+5415,DATE+,16414,16428,1 januari 2018,74
+5416,DATE+,16552,16566,1 januari 2018,74
+5417,DATE+,16758,16762,2017,74
+5418,DATE+,16837,16851,1 januari 2018,74
+5419,DATE+,16946,16950,2017,74
+5420,DATE+,17030,17044,1 januari 2018,74
+5421,DATE+,17099,17113,1 januari 2018,74
+5422,DATE+,17191,17205,1 januari 2018,74
+5423,DATE+,17418,17432,1 januari 2018,74
+5424,DATE+,17589,17600,2 juli 2015,74
+5425,DATE+,17722,17736,1 januari 2018,74
+5426,DATE+,17792,17800,augustus,74
+5427,DATE+,17992,18003,31 mei 2017,74
+5428,DATE+,18087,18101,1 januari 2018,74
+5429,DATE+,18272,18286,1 januari 2018,74
+5430,DATE+,18319,18333,1 januari 2018,74
+5431,DATE+,18387,18401,1 januari 2018,74
+5432,DATE+,18584,18598,1 januari 2018,74
+5433,DATE+,18775,18779,2017,74
+5434,DATE+,18853,18857,2017,74
+5435,DATE+,19117,19128,2 juli 2015,74
+5436,DATE+,19217,19221,2017,74
+5437,DATE+,19252,19256,2018,74
+5438,DATE+,19307,19311,2017,74
+5439,DATE+,19340,19344,2017,74
+5440,DATE+,19390,19404,1 januari 2018,74
+5441,DATE+,19568,19572,2018,74
+5442,DATE+,19665,19669,2018,74
+5443,DATE+,19699,19703,2018,74
+5444,DATE+,19840,19854,1 januari 2018,74
+5445,DATE+,19921,19936,15 januari 2018,74
+5446,DATE+,20051,20065,1 januari 2018,74
+5447,DATE+,20136,20147,2 juli 2015,74
+5448,DATE+,20222,20236,1 januari 2018,74
+5449,DATE+,20402,20413,2 juli 2015,74
+5450,DATE+,20446,20454,augustus,74
+5451,DATE+,20646,20657,31 mei 2017,74
+5452,DATE+,20734,20745,2 juli 2015,74
+5453,DATE+,20749,20763,1 januari 2018,74
+5454,DATE+,21140,21144,2017,74
+5455,DATE+,21213,21224,2 juli 2015,74
+5456,DATE+,21362,21377,9 december 2009,74
+7758,title,24,65,Beslissing_Wob-verzoek_bedrijfsmiddel.pdf,74
+7759,ID,9,11,74,74
+7761,event,280,315,ontving ik uw verzoek om informatie,74
+7762,event,466,522,verzoekt u op grond van de Wob om de volgende informatie,74
+7799,event,182,219,Datum Betreft: Beslissing Wob-verzoek,74
+5457,DATE+,114,118,2022,117
+5458,c: verzoek datum,137,153,30 november 2021,117
+5459,c: verzoek ontvangen,188,203,3 december 2021,117
+5460,DATE+,541,545,2019,117
+5461,DATE+,820,837,20 september 2019,117
+5462,c: ontvangst verzoek bevestigd,917,932,24 januari 2022,117
+5463,c: contact,991,1006,26 januari 2022,117
+5464,c: contact,1078,1093,26 januari 2022,117
+5465,DATE+,1285,1289,2019,117
+7763,ID,9,12,117,117
+7764,title,25,66,besluit-wob-vrouwen-in-adviescolleges.pdf,117
+7765,event,175,184,ontvangen,117
+7766,event,205,254,heeft u bij mijn ministerie een verzoek ingediend,117
+7767,event,933,983,heb ik de ontvangst van uw verzoek aan u bevestigd,117
+7768,event,1007,1059,is er contact met u opgenomen omtrent uw Wob-verzoek,117
+7769,event,1094,1133,is het contact en de afspraak bevestigd,117
+5466,DATE+,142,149,1 april,2
+5467,DATE+,150,154,2022,2
+5468,c: verzoek datum,244,260,14 december 2021,2
+5469,DATE+,613,617,2010,2
+5470,DATE+,622,626,2020,2
+5471,c: ontvangst verzoek bevestigd,709,725,27 december 2021,2
+5472,DATE+,814,818,2022,2
+5473,DATE+,1049,1053,2022,2
+5474,DATE+,1238,1242,2022,2
+5475,DATE+,1338,1350,1 april 2022,2
+5476,DATE+,1412,1416,2022,2
+5477,DATE+,1630,1634,2022,2
+5478,DATE+,1938,1942,2022,2
+5479,DATE+,2162,2166,2022,2
+5480,DATE+,2299,2311,1 april 2022,2
+5481,DATE+,2490,2494,2010,2
+5482,DATE+,2511,2515,2011,2
+5483,DATE+,2525,2533,462 1122,2
+5484,DATE+,2534,2538,2012,2
+5485,DATE+,2557,2561,2013,2
+5486,DATE+,2572,2580,694 1725,2
+5487,DATE+,2581,2585,2014,2
+5488,DATE+,2594,2600,83 242,2
+5489,DATE+,2601,2605,2015,2
+5490,DATE+,2623,2627,2016,2
+5491,DATE+,2641,2649,906 2017,2
+5492,DATE+,2663,2671,414 2018,2
+5493,DATE+,2681,2689,404 1030,2
+5494,DATE+,2690,2694,2019,2
+5495,DATE+,2707,2715,382 2020,2
+5496,DATE+,2725,2732,393 814,2
+7770,ID,9,10,2,2
+7771,title,24,84,2021297-wobbesluit-mesttransporten-plangebied-akkerlanen.pdf,2
+7772,c: besluit datum,142,154,1 april 2022,2
+7773,event,136,141,Datum,2
+7774,event,261,365,"heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht, namens , om informatie",2
+7775,date,613,626,2010 t/m 2020,2
+7776,event,644,694,ontvangst van uw verzoek is schriftelijk bevestigd,2
+5497,c: besluit datum,129,146,22 september 2022,81
+5498,c: verzoek datum,169,185,12 augustus 2022,81
+5499,c: ontvangst verzoek bevestigd,695,711,17 augustus 2022,81
+5500,DATE+,842,859,22 september 2022,81
+5501,DATE+,1184,1201,22 september 2022,81
+5502,DATE+,1376,1386,28-04-2017,81
+5503,DATE+,1451,1460,26-6-2017,81
+5504,DATE+,1503,1513,27-05-2019,81
+5505,DATE+,1576,1586,10-10-2019,81
+5506,DATE+,1651,1661,28-10-2019,81
+7778,title,24,102,Besluit+op+Woo-verzoek+over+vaststelling+fosfaatrechten+en+referentiedatum.pdf,81
+7779,ID,9,11,81,81
+7780,event,123,128,Datum,81
+7782,event,186,274,"heeft u, namens uw cliënt, met een beroep op de Wet open overheid (hierna: Woo) verzocht",81
+7783,event,630,680,ontvangst van uw verzoek is schriftelijk bevestigd,81
+5511,DATE+,75,87,januari 2022,101
+5512,c: besluit datum,98,111,11 april 2022,101
+5513,c: verzoek datum,121,136,16 januari 2022,101
+5514,c: overig,343,353,april 2021,101
+5515,c: overig,361,368,2 maart,101
+5516,c: ontvangst verzoek bevestigd,615,627,3 maart 2022,101
+7787,ID,9,12,101,101
+7788,title,25,56,besluit-wob-kiezen-en-delen.pdf,101
+7790,event,92,97,Datum,101
+7791,event,137,181,heeft u een Wob-verzoek per e-mail ingediend,101
+7792,event,297,339,rapport is door ABD Topconsult uitgebracht,101
+7794,event,369,447,is dit verzoek vanuit het Ministerie van LNV doorgestuurd naar mijn ministerie,101
+7795,event,544,600,ontvangst van uw verzoek heb ik u schriftelijk bevestigd,101
+7796,date,72,87,16 januari 2022,101
+5517,c: besluit datum,156,167,31 MEI 2022,65
+5518,c: verzoek datum,189,204,9 december 2021,65
+5519,DATE+,305,321,25 februari 2020,65
+5520,DATE+,333,348,9 december 2021,65
+5521,c: inwerking treden van Woo,844,854,1 mei 2022,65
+5522,c: inwerking treden van Woo,975,980,1 mei,65
+5523,c: verzoek datum,1023,1038,9 december 2021,65
+5524,c: ontvangst verzoek bevestigd,1082,1098,10 december 2021,65
+5525,c: overig,1171,1184,12 april 2022,65
+7801,ID,9,11,65,65
+7802,title,24,100,2e_deelbesluit_op_op_Wob-Woo-verzoek_over_plannen_hyperscale_datacenters.pdf,65
+7803,event,205,238,heeft u een Wob-verzoek ingediend,65
+7804,date,305,348,25 februari 2020 tot en met 9 december 2021,65
+7806,event,855,914,is de Wob vervangen door de Wet open overheid (hierna: Woo),65
+7807,event,984,993,Woo geldt,65
+7808,event,1012,1019,U heeft,65
+7809,event,1039,1063,uw Wob-verzoek ingediend,65
+7810,event,1099,1137,is uw verzoek voor ontvangst bevestigd,65
+7811,event,1146,1167,eerste deelbesluit is,65
+7812,event,1185,1192,genomen,65
+5526,c: besluit datum,267,279,5 april 2022,50
+5527,c: verzoek datum,314,326,26 juli 2021,50
+5528,c: ontvangst verzoek bevestigd,432,444,27 juli 2021,50
+5529,c: contact,496,512,24 februari 2022,50
+5530,DATE+,795,811,16 februari 2011,50
+7813,ID,9,11,50,50
+7815,title,24,43,21-0599-besluit.pdf,50
+7816,event,260,265,Datum,50
+7817,event,326,371, heeft u per e-mail een Wob-verzoek ingediend,50
+7818,event,379,416,ontvangst van uw verzoek is bevestigd,50
+7819,event,513,627,heb ik u geïnformeerd dat ik de aangetroffen documenten aan de derde-belanghebbende opgestuurd heb voor zienswijze,50
+5531,c: besluit datum,55,67,26 juli 2022,57
+5532,DATE+,104,111,22-0097,57
+5533,c: verzoek datum,133,148,1 februari 2022,57
+5534,c: verzoek ontvangen,163,178,1 februari 2022,57
+5535,DATE+,373,377,2021,57
+5536,DATE+,581,585,2021,57
+5537,DATE+,635,639,2021,57
+5538,c: ontvangst verzoek bevestigd,712,727,1 februari 2022,57
+5539,c: beslistermijn verdaagd,768,784,28 februari 2022,57
+5540,c: inwerking treden van Woo,836,846,1 mei 2022,57
+5541,DATE+,1096,1100,2021,57
+5542,DATE+,1165,1172,22-0097,57
+5543,DATE+,1328,1332,2021,57
+5544,DATE+,1424,1428,2021,57
+5545,c: contact,1484,1497,29 maart 2022,57
+5546,DATE+,1864,1871,22-0097,57
+7821,ID,9,11,57,57
+7822,title,24,43,22-0097-besluit.pdf,57
+7823,event,48,53,Datum,57
+7824,event,180,254,verzocht u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob),57
+7826,event,150,159,ontvangen,57
+7827,event,647,707,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,57
+7828,event,785,828,is de beslistermijn met vier weken verdaagd,57
+7829,event,847,928,is de Wet open overheid (hierna: Woo) inwerking getreden en is de Wob ingetrokken,57
+7830,event,1498,1677,bent u geïnformeerd dat er derde belanghebbenden bij de openbaarmaking van de documenten zijn betrokken en dat deze in de gelegenheid zijn gesteld hierover een zienswijze te geven,57
+5549,DATE+,332,342,22-0267Woo,59
+5550,c: besluit datum,378,393,11 oktober 2022,59
+5551,c: verzoek datum,465,478,29 maart 2022,59
+5552,c: verzoek ontvangen,492,505,31 maart 2022,59
+5553,DATE+,737,741,2014,59
+5554,DATE+,1022,1026,2014,59
+5555,c: ontvangst verzoek bevestigd,1185,1198,31 maart 2022,59
+5556,c: overig,1297,1309,22 juni 2022,59
+5557,DATE+,1342,1354,21 juni 2022,59
+5558,DATE+,1429,1436,22-0267,59
+5559,c: overig,1444,1455,8 juli 2022,59
+5560,c: overig,1511,1525,4 oktober 2022,59
+5561,DATE+,1680,1685,"100,-",59
+5562,c: contact,1814,1828,7 oktober 2022,59
+5563,c: overig,1962,1976,7 oktober 2022,59
+5564,DATE+,2263,2270,22-0267,59
+7831,ID,9,11,59,59
+7832,title,24,43,22-0267-besluit.pdf,59
+7833,event,358,377,Datum: verzonden op,59
+7834,event,506,515,ontvangen,59
+7835,event,517,623,heeft u de Nederlandse Voedsel- en Warenautoriteit (hierna: NVWA) gevraagd om informatie openbaar te maken,59
+7836,event,1199,1289,heeft u per aangetekende brief bericht ontvangen dat uw verzoek in goede orde is ontvangen,59
+7837,event,1310,1364,heb ik uw ingebrekestelling van 21 juni 2022 ontvangen,59
+7838,event,1526,1610,heb ik van de Rechtbank Overijssel de uitspraak op het bovengenoemd beroep ontvangen,59
+7839,event,1828,1942, heb ik uw verzoek voor wat betreft de onderdelen 1 en 2 doorgestuurd aan RVO en u daarover per brief geïnformeerd,59
+7840,event,1977,2072,heb ik echter van RVO vernomen dat RVO al een identiek verzoek van u in behandeling had genomen,59
+7841,event,1456,1503,heb ik een kopie van uw beroepschrift ontvangen,59
+5565,DATE+,81,90,12-5-2022,93
+5566,DATE+,115,128,12 april 2022,93
+5567,c: besluit datum,148,160,28 juli 2022,93
+5568,c: verzoek datum,279,292,12 april 2022,93
+5569,c: ontvangst verzoek bevestigd,789,802,22 april 2022,93
+5570,c: beslistermijn verdaagd,839,849,9 mei 2022,93
+5571,DATE+,944,955,24 mei 2022,93
+5572,c: inwerking treden van Woo,975,985,1 mei 2022,93
+5573,DATE+,1255,1259,2017,93
+5574,DATE+,1294,1298,2019,93
+5575,DATE+,1726,1732,34 775,93
+7842,ID,9,11,93,93
+7843,title,24,76,besluit-op-wob-verzoek-over-anti-witwasrichtlijn.pdf,93
+7845,event,142,147,Datum,93
+7846,event,293,405,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) gevraagd om informatie openbaar te maken,93
+7848,event,720,784,ontvangst van uw verzoek heb ik schriftelijk bevestigd bij brief,93
+7849,event,850,891,heb ik uw verzoek met twee weken verdaagd,93
+7850,event,986,1045,is de Wob vervangen door de Wet open overheid (hierna: Woo),93
+5576,c: besluit datum,186,198,13 juli 2022,122
+5577,DATE+,238,250,13 juli 2022,122
+5578,DATE+,255,265,6 mei 2022,122
+5579,c: verzoek datum,300,310,6 mei 2022,122
+5580,DATE+,479,491,1 april 2022,122
+5581,DATE+,503,513,6 mei 2022,122
+5582,c: ontvangst verzoek bevestigd,597,607,6 mei 2022,122
+5583,c: beslistermijn verdaagd,631,642,3 juni 2022,122
+7851,ID,9,12,122,122
+7852,title,25,77,besluit-woo-verzoek-2022-33-schiphol-meivakantie.pdf,122
+7854,event,180,185,Datum,122
+7855,event,311,360,heeft u bij mijn ministerie een verzoek ingediend,122
+7856,date,479,513,1 april 2022 tot en met 6 mei 2022,122
+7857,event,554,592,ontvangst van uw verzoek is per e-mail,122
+7858,event,608,623,aan u bevestigd,122
+7859,event,643,699,is per e-mail de behandeling van uw Woo-verzoek verdaagd,122
+5598,DATE+,338,349,27 augustus,102
+5599,c: besluit datum,360,373,11 april 2022,102
+5600,DATE+,445,449,2011,102
+5601,c: verzoek datum,482,498,27 augustus 2021,102
+5602,c: verzoek ontvangen,513,529,30 augustus 2021,102
+5603,DATE+,756,760,2011,102
+5604,c: ontvangst verzoek bevestigd,849,865,2 september 2021,102
+5605,DATE+,966,981,25 oktober 2021,102
+5606,c: contact,989,1006,21 september 2012,102
+7863,ID,9,12,102,102
+7864,title,25,50,besluit-wob-laadpalen.pdf,102
+7865,event,354,359,Datum,102
+7867,event,500,509,ontvangen,102
+7868,event,531,625,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om documenten,102
+7869,date,445,459,2011 tot heden,102
+7870,date,756,770,2011 tot heden,102
+7871,event,778,844,ontvangst van uw verzoek heb ik u schriftelijk bevestigd bij brief,102
+7872,event,1007,1094,hebben medewerkers van mijn ministerie met u gesproken over de invulling van uw verzoek,102
+5762,DATE+,92,107,31 januari 2022,105
+5763,c: besluit datum,118,129,18 mei 2022,105
+5764,c: verzoek datum,152,167,31 januari 2022,105
+5765,c: ontvangst verzoek bevestigd,510,525,9 februari 2022,105
+5766,c: contact,571,584,10 maart 2022,105
+5767,c: inwerking treden van Woo,663,673,1 mei 2022,105
+5768,c: inwerking treden van Woo,794,799,1 mei,105
+5769,DATE+,836,851,31 januari 2022,105
+5770,DATE+,951,959,22/12/21,105
+5771,DATE+,1035,1043,16/12/21,105
+7875,title,25,87,besluit-wob-onrechtmatigheden-compensatie-toeslagenaffaire.pdf,105
+7876,ID,9,12,105,105
+7877,event,112,117,Datum,105
+7878,event,199,279,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht,105
+7879,event,439,505,ontvangst van uw verzoek heb ik u schriftelijk bevestigd bij brief,105
+7880,event,585,652,uitgenodigd voor een gesprek over de behandeling van uw Wob-verzoek,105
+7881,event,674,733,is de Wob vervangen door de Wet open overheid (hierna: Woo),105
+7882,event,803,812,Woo geldt,105
+5772,DATE+,83,100,09 september 2022,34
+5773,c: besluit datum,111,128,23 september 2022,34
+5774,c: verzoek datum,151,167,9 september 2022,34
+5775,DATE+,444,459,45 miljoen euro,34
+5776,DATE+,538,551,augustus 2022,34
+5777,c: contact,575,592,13 september 2022,34
+5778,c: contact,679,696,14 september 2022,34
+5779,DATE+,852,868,25 augustus 2022,34
+5780,DATE+,989,1006,14 september 2022,34
+5781,DATE+,1102,1118,25 augustus 2022,34
+7883,ID,9,11,34,34
+7884,title,24,64,2022-079-woo-besluit-over-groeifonds.pdf,34
+7885,event,105,110,Datum,34
+7886,event,207,256,heeft u OCW gevraagd informatie openbaar to maken,34
+7887,event,593,636,telefonisch contact geweest ter bevestiging,34
+7888,event,697,742,is ook aan u aanvullende informatie verschaft,34
+5782,c: besluit datum,113,126,20 april 2022,87
+5783,c: verzoek datum,153,167,7 oktober 2021,87
+5784,c: verzoek ontvangen,182,197,22 oktober 2021,87
+5785,DATE+,427,441,1 januari 2021,87
+5786,DATE+,446,460,7 oktober 2021,87
+5787,c: ontvangst verzoek bevestigd,524,539,22 oktober 2021,87
+5788,c: beslistermijn verdaagd,588,604,19 november 2021,87
+5789,c: contact,652,668,19 november 2021,87
+5790,c: overig,700,714,3 januari 2022,87
+5791,c: overig,753,768,17 januari 2022,87
+5792,DATE+,1003,1018,21 januari 2022,87
+5793,c: overig,1038,1050,3 maart 2022,87
+5794,DATE+,1150,1163,10 maart 2022,87
+7889,ID,9,11,87,87
+7890,title,24,82,Besluit+wob-verzoek+vertrek+minister+van+Nieuwenhuizen.pdf,87
+7891,event,107,112,Datum,87
+7892,event,169,178,ontvangen,87
+7893,event,199,289,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzoch,87
+7894,date,427,460,1 januari 2021 tot 7 oktober 2021,87
+7895,event,493,520,ontvangst van uw verzoek is,87
+7896,event,540,560,per e-mail bevestigd,87
+7897,event,568,584,beslistermijn is,87
+7898,event,605,628,met vier weken verdaagd,87
+7899,event,642,648,bent u,87
+7900,event,669,692,per e-mail geïnformeerd,87
+7901,event,715,745,heeft u mij in gebreke gesteld,87
+7902,event,769,853,heeft u bij de rechtbank Midden-Nederland een beroep niet tijdig beslissen ingesteld,87
+7903,event,1051,1137,zijn belanghebbenden in de gelegenheid gesteld om hun zienswijze naar voren te brengen,87
+7904,c: overig,1145,1163,9 en 10 maart 2022,87
+7905,event,1164,1224,hebben de belanghebbenden hun zienswijze naar voren gebracht,87
+5850,c: besluit datum,155,170,28 januari 2022,45
+5851,c: verzoek datum,242,254,4 maart 2021,45
+5852,c: verzoek ontvangen,269,281,5 maart 2021,45
+5853,DATE+,480,484,2018,45
+5854,DATE+,496,508,4 maart 2021,45
+5855,DATE+,597,603,1/2005,45
+5856,c: ontvangst verzoek bevestigd,676,688,8 maart 2021,45
+5857,c: beslistermijn verdaagd,726,739,29 maart 2021,45
+5858,DATE+,788,801,27 april 2021,45
+7916,ID,9,11,45,45
+7917,title,24,43,21-0200-besluit.pdf,45
+7918,event,114,154,Datum: Uitsluitend verstuurd per mail op,45
+7919,event,256,265,ontvangen,45
+7920,event,283,375,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht ,45
+7921,date,480,508,2018 tot en met 4 maart 2021,45
+7922,event,611,671,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,45
+7923,event,740,783,is de beslistermijn met vier weken verdaagd,45
+5884,DATE+,86,88,50,28
+5885,c: besluit datum,228,239,8 juli 2022,28
+5886,c: verzoek datum,306,319,29 maart 2022,28
+5887,c: contact,612,625,12 april 2022,28
+5888,c: overig,708,721,20 april 2022,28
+5889,DATE+,862,873,24 mei 2022,28
+5890,c: contact,890,901,24 mei 2022,28
+5891,DATE+,1084,1096,22 juni 2022,28
+5892,c: overig,1120,1132,21 juni 2022,28
+5893,c: inwerking treden van Woo,1178,1188,1 mei 2022,28
+5894,DATE+,1317,1327,1 mei 2022,28
+7934,ID,9,11,28,28
+7935,title,24,65,2022-018_Besluit_Wob-Woo_verzoek_NPLO.pdf,28
+7936,event,221,227,D atum,28
+7937,event,398,509,"heeft u het ministerie van Onderwijs, Cultuur en Wetenschap (hierna: OCW) gevraagd informatie openbaar te maken",28
+7939,event,626,661,heeft er een gesprek plaatsgevonden,28
+7940,event,722,820,heeft u een formele ontvangstbevestiging ontvangen waarin de bovenstaande afspraken zijn bevestigd,28
+7941,event,902,1018,heeft een Woo-jurist van OCW telefonisch contact met u opgenomen en aangegeven dat de termijn onhaalbaar is gebleken,28
+7942,event,1110,1116,bent u,28
+7943,event,1133,1153,op de hoogte gesteld,28
+7944,event,1189,1306,is de Wet open overheid (hierna: Woo) in werking getreden waarmee de Wet openbaarheid van bestuur niet meer geldig is,28
+5895,c: verzoek ontvangen,141,156,22 oktober 2021,95
+5896,DATE+,321,336,9 februari 2017,95
+5897,DATE+,488,492,2016,95
+5898,c: ontvangst verzoek bevestigd,706,721,27 oktober 2021,95
+5899,c: contact,769,783,7 januari 2022,95
+5900,c: contact,1047,1061,7 januari 2022,95
+5901,DATE+,1178,1193,9 februari 2017,95
+5902,DATE+,1280,1292,januari 2022,95
+5903,DATE+,1298,1305,1 maart,95
+5904,DATE+,1306,1310,2017,95
+5905,DATE+,1403,1415,januari 2022,95
+5906,DATE+,1421,1434,14 maart 2017,95
+5907,DATE+,1521,1534,15 maart 2017,95
+5908,DATE+,1632,1645,24 april 2017,95
+5909,DATE+,1732,1744,januari 2022,95
+5910,DATE+,1750,1763,25 april 2017,95
+5911,DATE+,1860,1872,januari 2022,95
+5912,DATE+,1877,1890,25 april 2017,95
+5913,DATE+,1966,1977,21 mei 2014,95
+5914,DATE+,1991,2004,25 april 2017,95
+5915,DATE+,2076,2087,21 mei 2014,95
+5916,DATE+,2101,2114,25 april 2017,95
+5917,DATE+,2199,2205,21 mei,95
+5918,DATE+,2219,2223,2014,95
+5919,DATE+,2231,2244,25 april 2017,95
+5920,DATE+,2345,2357,januari 2022,95
+5921,DATE+,2369,2381,10 juni 2015,95
+5922,DATE+,2388,2399,15 mei 2017,95
+5923,DATE+,2492,2503,24 mei 2017,95
+5924,DATE+,2579,2590,31 augustus,95
+5925,DATE+,2685,2689,2017,95
+5926,DATE+,2707,2720,augustus 2017,95
+5927,DATE+,2728,2739,5 september,95
+5928,DATE+,2834,2838,2017,95
+5929,DATE+,2857,2868,6 september,95
+5930,DATE+,2966,2970,2017,95
+5931,DATE+,2999,3010,15 december,95
+5932,DATE+,3112,3126,2017Productie3,95
+5933,DATE+,3241,3247,267 70,95
+5934,DATE+,4241,4248,201I7ng,95
+5935,DATE+,4368,4384,e-l1lllllberlcht,95
+5936,DATE+,4565,4570,"8,M1H",95
+5937,DATE+,5085,5090,"8,M1H",95
+5938,DATE+,5355,5359,0121,95
+5939,DATE+,5535,5541,0 1400,95
+5940,DATE+,5554,5568,1800 1900 200•,95
+5941,DATE+,5604,5608,"0,92",95
+5942,DATE+,5779,5784,1 217,95
+5943,DATE+,5920,5923,8NT,95
+5944,DATE+,6092,6100,100 2003,95
+5945,DATE+,6139,6144,22 21,95
+5946,DATE+,6148,6153,17 16,95
+5947,DATE+,6163,6178,24 25 1200 1300,95
+5948,DATE+,6179,6183,1409,95
+5949,DATE+,6274,6278,2I09,95
+5950,DATE+,6334,6339,15 16,95
+5951,DATE+,6340,6348,"16 18,52",95
+5952,DATE+,7123,7127,4lS9,95
+5953,DATE+,7276,7283,dinsdag,95
+5954,DATE+,7396,7408,1Productie1A,95
+5955,DATE+,7555,7558,ne8,95
+5956,DATE+,7679,7681,1V,95
+5957,DATE+,7897,7905,125JlKLA,95
+5958,DATE+,8768,8772,2013,95
+5959,DATE+,8901,8905,20'7,95
+5960,DATE+,9095,9099,2017,95
+5961,DATE+,9137,9148,15d ecember,95
+5962,DATE+,9149,9153,2017,95
+5963,DATE+,9384,9400,9f ebr2u0a1gr7ei,95
+5964,DATE+,9428,9434,5 1049,95
+5965,DATE+,11347,11356,24mel2017,95
+5966,DATE+,11399,11405,11ln11,95
+5967,DATE+,11406,11418,15d ecember2,95
+5968,DATE+,11782,11785,"3,D",95
+5969,DATE+,12453,12456,5 n,95
+5970,DATE+,12492,12506,"1r,1mcmhv!9eot",95
+5971,DATE+,13492,13496,2017,95
+5972,DATE+,13863,13867,nn·u,95
+5973,DATE+,14143,14147,2008,95
+5974,DATE+,14295,14301,200d8i,95
+5975,DATE+,14443,14448,0e3ne,95
+5976,DATE+,15176,15178,2w,95
+5977,DATE+,15360,15364,1M8H,95
+5978,DATE+,15899,15904,2van6,95
+5979,DATE+,16010,16013,2w3,95
+5980,DATE+,16427,16432,"280,0",95
+5981,DATE+,16524,16529,"150,0",95
+5982,DATE+,16841,16852,15d ecember,95
+5983,DATE+,16853,16857,2017,95
+5984,DATE+,16877,16883,3v a6n,95
+5985,DATE+,17153,17155,•1,95
+5986,DATE+,17168,17170,1•,95
+5987,DATE+,17451,17460,"2,0 280,0",95
+5988,DATE+,17519,17524,"150,0",95
+5989,DATE+,17539,17544,"150,0",95
+5990,DATE+,17891,17902,15d ecember,95
+5991,DATE+,17903,17907,2017,95
+5992,DATE+,18000,18008,006E3001,95
+5993,DATE+,18013,18018,13m8e,95
+5994,DATE+,18194,18197,J1H,95
+5995,DATE+,18293,18301,90 meter,95
+5996,DATE+,18408,18413,"210,0",95
+5997,DATE+,18760,18762,1•,95
+5998,DATE+,18981,18994,"2,0 220,0 2,0",95
+5999,DATE+,19081,19084,"4,Q",95
+6000,DATE+,19204,19205,>,95
+6001,DATE+,19223,19228,"170,0",95
+6002,DATE+,19323,19327,eI n,95
+6003,DATE+,19702,19718,nI TUS-MR1 268-3,95
+6004,DATE+,19789,19794,4 1Î4,95
+6005,DATE+,19890,19895,268-3,95
+6006,DATE+,20262,20290,15d eçem2b0e1r7 OOsSlemummer,95
+6007,DATE+,20619,20621,1I,95
+7945,ID,9,11,95,95
+7946,title,24,62,besluit-wob-aanvraag-radio-limburg.pdf,95
+7947,event,157,274,"heb ik uw verzoek zoals bedoeld in artikel 3, eerste lid, van de Wet openbaarheid van bestuur (hierna: Wob) ontvangen",95
+7948,event,642,701,ontvangst van uw verzoek is schri�elijk bevestigd bij brief,95
+7949,event,813,985,heb ik aan u medegedeeld dat enkele stukken op uw verzoek betrekking hebbende documenten gegevens bevatten die van derde(n) afkomstig zijn/die betrekking hebben op derde(n),95
+7951,event,1004,1042,derde-belanghebbende(n) zijn bij brief,95
+7953,event,1062,1173,geïnformeerd over de documenten die naar mijn oordeel in eerste instantie tot te openbaren documenten behoorden,95
+6008,c: besluit datum,251,263,22 juni 2022,113
+6009,c: verzoek datum,288,301,29 maart 2022,113
+6010,DATE+,573,577,2014,113
+6011,DATE+,756,768,8 april 2022,113
+6012,DATE+,878,889,12 mei 2022,113
+6013,c: inwerking treden van Woo,922,932,1 mei 2022,113
+6014,DATE+,1040,1052,22 juni 2022,113
+7954,ID,9,12,113,113
+7955,title,25,71,besluit-wob-verzoek-fosfaatrechten-bedrijf.pdf,113
+7956,event,245,250,Datum,113
+7957,event,302,409,heeft u de Rijksdienst voor Ondernemend Nederland (hierna: RVO.nl) gevraagd om informatie openbaar te maken,113
+7958,event,933,999,is de Wob ingetrokken en vervangen door de Wet open overheid (Woo),113
+6015,DATE+,85,93,379 8911,6
+6016,c: besluit datum,115,128,24 maart 2022,6
+6017,DATE+,139,154,28 oktober 2021,6
+6018,c: verzoek datum,328,343,27 oktober 2021,6
+6019,c: verzoek ontvangen,358,373,28 oktober 2021,6
+6020,DATE+,636,650,1 januari 2020,6
+6021,DATE+,653,668,27 oktober 2021,6
+6022,c: ontvangst verzoek bevestigd,738,754,15 november 2021,6
+6023,DATE+,856,872,23 december 2021,6
+6024,DATE+,888,909,donderdag 25 november,6
+6025,DATE+,1146,1157,10 december,6
+6026,DATE+,1532,1536,2021,6
+6027,DATE+,1544,1555,17 december,6
+6028,DATE+,1565,1575,25 januari,6
+6029,DATE+,1689,1699,18 januari,6
+6030,DATE+,1709,1720,14 februari,6
+6031,DATE+,1778,1788,14-04-2020,6
+6032,DATE+,1995,1999,2020,6
+6033,DATE+,2109,2116,03 2020,6
+6034,DATE+,2155,2165,12-02-2021,6
+6035,DATE+,2185,2189,2020,6
+6036,DATE+,2242,2252,05-03-2021,6
+6037,DATE+,2303,2308,31 Q3,6
+6038,DATE+,2329,2339,26-05-2021,6
+6039,DATE+,2435,2439,2020,6
+6040,DATE+,2512,2523,18 augustus,6
+6041,DATE+,2531,2535,2021,6
+6042,DATE+,2566,2576,11-08-2021,6
+6043,DATE+,2648,2658,18-08-2021,6
+6044,DATE+,2740,2744,2020,6
+6045,DATE+,2752,2762,27-08-2021,6
+6046,DATE+,2858,2862,2021,6
+6047,DATE+,2870,2880,07-09-2021,6
+6048,DATE+,2945,2954,september,6
+6049,DATE+,2985,2995,24-09-2021,6
+6050,DATE+,3065,3077,29 september,6
+6051,DATE+,3096,3106,27-09-2021,6
+6052,DATE+,3161,3170,5 oktober,6
+6053,DATE+,3178,3182,2021,6
+6054,DATE+,3208,3218,05-10-2021,6
+6055,DATE+,3317,3321,2020,6
+6056,DATE+,3328,3332,2021,6
+6057,DATE+,3340,3350,13-10-2021,6
+6058,DATE+,3545,3555,18-10-2021,6
+6059,DATE+,3783,3787,2020,6
+6060,DATE+,3794,3798,2021,6
+6061,DATE+,3815,3826,2-Wijziging,6
+7959,ID,9,10,6,6
+7960,title,23,74,1e-deelbesluit-wob-geschil-versterkingsoperatie.PDF,6
+7961,event,109,114,Datum,6
+7962,event,345,354,ontvangen,6
+7963,event,375,466,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht,6
+7964,date,636,668,1 januari 2020 – 27 oktober 2021,6
+7965,event,686,733,ontvangst van uw verzoek is bevestigd bij brief,6
+7966,c: contact,888,912,donderdag 25 november jl,6
+7967,event,915,1100,gesproken met de heer Hans Hindriks van het ministerie van Economische Zaken en Klimaat (hierna: ministerie van EZK) over de reikwijdte van uw verzoek en de voortgang van de afhandeling,6
+7968,event,1110,1142,afspraak is bevestigd per e-mail,6
+7970,c: contact,1146,1160,10 december jl,6
+7971,c: contact,1544,1578,17 december jl en op 25 januari jl,6
+7972,event,1579,1669,heeft u met de heer Hindriks gesproken over de voortgang van de afhandeling van uw verzoek,6
+7973,event,1724,1773,per e-mail een update over de voortgang ontvangen,6
+7974,c: contact,1689,1723,18 januari jl en op 14 februari jl,6
+6062,DATE+,140,144,2022,94
+6063,c: verzoek datum,173,184,27 mei 2022,94
+6064,DATE+,323,327,2020,94
+6065,c: ontvangst verzoek bevestigd,505,516,30 mei 2022,94
+6066,DATE+,632,644,17 juni 2022,94
+6067,DATE+,648,660,22 juni 2022,94
+6068,c: beslistermijn verdaagd,707,719,23 juni 2022,94
+6069,DATE+,775,786,8 juli 2022,94
+6070,c: beslistermijn verdaagd,821,832,6 juli 2022,94
+6071,DATE+,927,939,22 juli 2022,94
+6072,DATE+,1035,1039,2013,94
+7975,ID,9,11,94,94
+7976,title,24,79,besluit-op-woo-verzoek-over-twee-vacatures-uit-2020.pdf,94
+7977,event,185,279,op grond van de Wet open overheid (hierna: Woo) verzocht om openbaarmaking van alle informatie,94
+7978,event,517,584,heeft u bericht ontvangen dat uw verzoek in goede orde is ontvangen,94
+7979,c: contact,632,660,17 juni 2022 en 22 juni 2022,94
+7980,event,661,688,telefonisch contact geweest,94
+7981,event,720,763,is de beslistermijn met twee weken verdaagd,94
+7983,event,888,915,de beslistermijn opgeschort,94
+7984,event,804,816,is bij brief,94
+6073,DATE+,101,108,42 5708,18
+6074,c: besluit datum,164,179,9 februari 2022,18
+6075,c: verzoek datum,285,301,22 november 2021,18
+6076,c: ontvangst verzoek bevestigd,551,566,1 december 2021,18
+6077,DATE+,644,659,17 januari 2022,18
+6078,c: beslistermijn verdaagd,683,698,11 januari 2022,18
+6079,DATE+,759,774,27 januari 2022,18
+6080,DATE+,908,921,13 maart 2019,18
+7985,ID,9,11,18,18
+7986,title,24,44,2021-281-besluit.pdf,18
+7987,event,157,162,Datum,18
+7988,event,302,396,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) om informatie verzocht,18
+7989,event,500,546,ontvangst van uw verzoek heb ik met mijn brief,18
+7990,event,567,576,bevestigd,18
+7992,event,699,754,heb ik u medegedeeld dat de beslistermijn is opgeschort,18
+6105,c: besluit datum,174,191,28 september 2022,63
+6106,c: verzoek ontvangen,200,213,14 april 2022,63
+6107,c: inwerking treden van Woo,348,358,1 mei 2022,63
+6108,DATE+,457,474,28 september 2022,63
+6109,DATE+,947,951,2017,63
+6110,DATE+,1067,1071,2017,63
+6111,DATE+,1185,1202,28 september 2022,63
+7997,ID,9,11,63,63
+7998,title,24,117,220927-woo-besluit-afgegeven-verklaring-niet-afgetrokken-premies-en-inhouding-loonheffing.pdf,63
+7999,event,168,173,Datum,63
+8000,event,214,322,ontving ik uw verzoek om op grond van de Wet openbaarheid bestuur (hierna: Wob) informatie openbaar to maken,63
+8001,event,359,418,is de Wob vervangen door de Wet open overheid (hierna: Woo),63
+6112,DATE+,88,104,17 februari 2022,110
+6113,c: besluit datum,115,128,14 maart 2022,110
+6114,c: verzoek datum,195,211,17 februari 2022,110
+6115,DATE+,288,292,2001,110
+6116,c: ontvangst verzoek bevestigd,371,383,3 maart 2022,110
+6117,DATE+,565,569,2001,110
+6118,DATE+,744,748,2001,110
+8002,ID,9,12,110,110
+8004,title,25,83,besluit-wob-totstandkoming-wet-inkomstenbelasting-2001.pdf,110
+8006,event,109,114,Datum,110
+8007,event,212,234,verzocht om informatie,110
+8008,event,184,191,heeft u,110
+8009,event,300,366,ontvangst van uw verzoek heb ik u schriftelijk bevestigd bij brief,110
+6119,DATE+,100,104,1087,32
+6120,c: besluit datum,297,314,20 september 2022,32
+6121,c: verzoek datum,525,541,5 september 2022,32
+6122,DATE+,810,822,28 juli 2022,32
+8010,ID,9,11,32,32
+8011,title,24,44,2022-076-besluit.pdf,32
+8012,event,291,296,Datum,32
+8013,event,582,699," heeft u het ministerie van Onderwijs, Cultuur en Wetenschap verzocht om een specifieke beschikking openbaar te maken",32
+6123,DATE+,156,164,450 9700,111
+6124,DATE+,239,247,450 9700,111
+6125,DATE+,283,295,050 587 7444,111
+6126,DATE+,341,345,2022,111
+6127,c: verzoek ontvangen,447,464,21 september 2021,111
+6128,c: ontvangst verzoek bevestigd,669,683,5 oktober 2021,111
+6129,c: contact,731,747,19 november 2021,111
+6130,DATE+,906,914,n5Bijl1a,111
+6131,DATE+,1569,1580,6J-22§-ZQ2l,111
+6132,DATE+,1759,1766,86W0B1S,111
+6133,DATE+,2552,2556,1175,111
+6134,DATE+,3658,3669,202z2qa nan,111
+6135,DATE+,3707,3712,jkdeJ,111
+6136,DATE+,4086,4089,1•U,111
+6137,DATE+,4276,4283,ETWIRK•,111
+6138,DATE+,4533,4538,562kW,111
+6139,DATE+,4702,4709,"21at ,,",111
+6140,DATE+,4834,4836,1U,111
+6141,DATE+,4962,4972,elviejnk9t,111
+6142,DATE+,5066,5071,006E1,111
+6143,DATE+,5082,5089,52N1049,111
+6144,DATE+,5150,5155,"6,'71",111
+6145,DATE+,5172,5176,21HO,111
+6146,DATE+,5228,5229,>,111
+6147,DATE+,5358,5362,1-JH,111
+6148,DATE+,5924,5925,>,111
+6149,DATE+,6523,6531,8 833V2A,111
+6150,DATE+,6825,6830,9i00A,111
+6151,DATE+,7301,7303,2j,111
+6152,DATE+,7525,7527,1Z,111
+6153,DATE+,7955,7960,0CtNM,111
+6154,DATE+,8034,8037,2L0,111
+6155,DATE+,8329,8336,2j u2D0,111
+6156,DATE+,8699,8707,587 7444,111
+6157,DATE+,8712,8720,5MvHaznN,111
+6158,DATE+,8781,8785,2003,111
+8015,ID,9,12,111,111
+8016,title,25,63,besluit-wob-verplaatsen-opstelpunt.pdf,111
+8018,event,465,492,heb ik uw verzoek ontvangen,111
+8019,event,604,654,ontvangst van uw verzoek is schriftelijk bevestigd,111
+8020,event,778,890,heb ik aan u medegedeeld dat de stukken die op uw verzoek betrekking hebben gegevens bevatten die zien op derden,111
+6170,DATE+,109,117,489 0000,55
+6171,DATE+,171,177,7·0JUN,55
+6172,DATE+,178,182,2022,55
+6173,DATE+,289,300,22·0032/WOO,55
+6174,c: verzoek datum,348,361,21 april 2022,55
+6175,c: ontvangst verzoek bevestigd,563,576,26 april 2022,55
+6176,DATE+,612,623,22-0032/Woo,55
+6177,c: beslistermijn verdaagd,631,642,11 mei 2022,55
+6178,c: inwerking treden van Woo,764,774,1 mei 2022,55
+6179,DATE+,869,879,1 mei 2022,55
+6180,DATE+,891,902,22·0032/Woo,55
+6181,DATE+,1153,1163,1 mei 2022,55
+6182,DATE+,1202,1212,1 mei 2022,55
+6183,DATE+,1325,1336,S juni 2013,55
+6184,DATE+,1482,1493,22-0032/Woo,55
+6185,DATE+,1739,1752,12 maart 2021,55
+6186,DATE+,1796,1809,14 maart 2021,55
+6187,DATE+,1936,1947,22-0032/Woo,55
+8030,ID,9,11,55,55
+8031,title,24,43,22-0032-besluit.pdf,55
+8032,event,362,453,heeft u bij het Ministerie van Infrastructuur en Waterstaat een informatieverzoek ingediend,55
+8033,event,486,558,ontvangst van uw verzoek is door de ILT schriftelijk bevestigd bij brief,55
+8034,event,643,756,heb ik u laten weten dat de wettelijke termijn om te beslissen op uw informatieverzoek is verdaagd met twee weken,55
+8035,event,775,818,is de Wet open overheid in werking getreden,55
+6188,c: besluit datum,112,128,25 augustus 2022,84
+6189,c: verzoek datum,165,181,28 december 2021,84
+6190,c: inwerking treden van Woo,312,322,1 mei 2022,84
+6191,c: ontvangst verzoek bevestigd,426,441,12 januari 2022,84
+6192,DATE+,621,635,1 januari 2021,84
+6193,DATE+,639,655,28 december 2021,84
+6194,DATE+,718,734,25 augustus 2022,84
+6195,DATE+,784,800,25 augustus 2022,84
+8039,ID,9,11,84,84
+8040,title,24,101,Besluit+Wob-verzoek+inzake+ongediertebestrijding+in+PI+Krimpen+a-d+IJssel.pdf,84
+8042,event,106,111,Datum,84
+8044,event,182,303,heeft u een verzoek om openbaarmaking van informatie ingediend op grond van de Wet openbaarheid van bestuur (hierna: Wob),84
+8045,event,323,407,"is de Wet open overheid (hierna: Woo) in werking getreden, ter vervanging van de Wob",84
+8046,event,442,486,heb ik de ontvangst van uw verzoek bevestigd,84
+8047,date,621,655,1 januari 2021 en 28 december 2021,84
+6196,DATE+,87,102,17 januari 2021,107
+6197,c: besluit datum,109,121,4 april 2022,107
+6198,c: verzoek datum,144,159,17 januari 2021,107
+6199,DATE+,491,501,36 maanden,107
+6200,c: ontvangst verzoek bevestigd,722,737,21 januari 2021,107
+6201,DATE+,834,847,15 maart 2021,107
+8048,ID,9,12,107,107
+8049,title,25,70,besluit-wob-regeling-overdrachtsbelasting.pdf,107
+8050,event,103,108,Datum,107
+8051,event,160,240,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht,107
+8052,event,651,717,ontvangst van uw verzoek heb ik u schriftelijk bevestigd bij brief,107
+6202,DATE+,111,126,1 augustus 2021,114
+6203,c: besluit datum,137,150,25 maart 2022,114
+6204,c: verzoek datum,173,188,1 augustus 2021,114
+6205,c: ontvangst verzoek bevestigd,388,404,10 augustus 2021,114
+6206,DATE+,505,521,27 augustus 2021,114
+6207,c: contact,529,542,augustus 2021,114
+6208,c: contact,700,715,2 november 2021,114
+6209,c: overig,811,827,30 november 2021,114
+6210,c: overig,975,990,1 december 2021,114
+8053,ID,9,12,114,114
+8056,title,25,87,besluit-wob-verzoek-verkenning-ai-toepassingen-door-douane.pdf,114
+8057,event,131,136,Datum,114
+8058,event,189,283,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie,114
+8059,event,328,384,ontvangst van uw verzoek heb ik u schriftelijk bevestigd,114
+8060,event,543,692,heeft u met de woordvoerder van Douane telefonisch gesproken over de inhoud van uw Wob-verzoek en is aangeboden u een presentatie te geven omtrent AI,114
+8061,event,716,803,heeft u met een woordvoerder telefonisch gesproken over de voortgang van uw Wob-verzoek,114
+8062,event,828,926,heeft u wegens het niet tijdig Directie Juridische Zaken beslissen een ingebrekestelling ingediend,114
+8063,event,934,971,ontvangst van uw ingebrekestelling is,114
+8064,event,991,1000,bevestigd,114
+6218,DATE+,260,268,379 8911,109
+6219,c: besluit datum,352,365,22 april 2022,109
+6220,DATE+,456,471,26 januari 2022,109
+6221,c: verzoek datum,548,563,26 januari 2022,109
+6222,c: ontvangst verzoek bevestigd,815,831,21 februari 2022,109
+6223,DATE+,932,945,23 maart 2022,109
+6224,DATE+,953,961,29 maart,109
+6225,DATE+,1172,1188,23 november 2005,109
+8067,ID,9,12,109,109
+8068,title,25,62,besluit-wob-subsidiekwestie-fresq.pdf,109
+8069,event,346,351,Datum,109
+8070,event,565,659,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) om informatie verzocht,109
+8071,event,750,810,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,109
+8072,c: contact,953,964,29 maart jl,109
+8073,event,965,1062,"heeft een medewerker van mijn ministerie, 10.2.e , u gemaild over de voortgang van uw WOB verzoek",109
+6245,DATE+,149,153,0880,78
+6246,c: besluit datum,188,203,12 oktober 2022,78
+6247,c: verzoek ontvangen,235,251,25 februari 2022,78
+6248,DATE+,606,610,2015,78
+6249,DATE+,622,626,2022,78
+6250,c: ontvangst verzoek bevestigd,693,709,25 februari 2022,78
+6251,c: inwerking treden van Woo,733,743,1 mei 2022,78
+6252,DATE+,880,895,12 oktober 2022,78
+6253,DATE+,1110,1125,12 oktober 2022,78
+6254,DATE+,1309,1329,Datum12 oktober 2022,78
+8076,ID,9,11,78,78
+8077,title,24,86,Besluit+op+Wob-Woo-verzoek+over+informatie+diertelgegevens.pdf,78
+8078,event,182,187,Datum,78
+8080,event,252,336,heb ik uw gegevensverzoek ontvangen waarin u vraagt om openbaarmaking van informatie,78
+8081,event,643,689,ontvangst van uw verzoek is digitaal bevestigd,78
+8082,date,606,626,2015 tot en met 2022,78
+8083,event,744,875,is de Wet openbaarheid van bestuur (hierna te noemen Wob) ingetrokken en vervangen door de Wet open overheid (hierna te noemen Woo),78
+6255,c: besluit datum,103,115,5 april 2022,11
+6256,c: verzoek datum,182,198,20 november 2020,11
+6257,DATE+,325,329,2019,11
+6258,DATE+,398,402,1250,11
+6259,c: ontvangst verzoek bevestigd,538,554,23 november 2020,11
+6260,DATE+,567,574,20-0875,11
+6261,c: beslistermijn verdaagd,593,609,14 december 2020,11
+6262,DATE+,751,767,31 december 2023,11
+8084,ID,9,11,11,11
+8086,title,24,91,200875-wobbesluit-afgeschoten-edelherten-oostvaardersplassen-v2.pdf,11
+8087,event,96,101,Datum,11
+8088,event,199,297,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om van informatie,11
+8089,event,485,533,ontvangst van uw verzoek is bevestigd bij e-mail,11
+8091,event,610,653,is de beslistermijn met vier weken verdaagd,11
+6269,DATE+,171,178,20 juni,37
+6270,c: verzoek datum,216,227,27 mei 2022,37
+6271,c: ontvangst verzoek bevestigd,432,443,27 mei 2022,37
+6272,c: contact,499,511,10 juni 2022,37
+8092,ID,9,11,37,37
+8093,title,24,92,2022-38-woo-besluit-over-totstandkoming-geluidsnorm-windturbines.pdf,37
+8095,event,165,170,Datum,37
+8096,c: besluit datum,171,183,20 juni 2022,37
+8098,event,228,280,heeft u mij gevraagd om documenten openbaar te maken,37
+8099,event,368,428,ontvangst van uw verzoek is schriftelijk bevestigd per brief,37
+8101,event,516,611,digitaal overleg gehad met twee medewerkers van het Ministerie van Infrastructuur en Waterstaat,37
+6273,DATE+,141,149,489 0000,42
+6274,DATE+,176,180,2022,42
+6275,c: verzoek datum,213,229,31 augustus 2021,42
+6276,c: overig,516,532,1 september 2021,42
+6277,c: ontvangst verzoek bevestigd,774,790,1 september 2021,42
+6278,c: beslistermijn verdaagd,860,877,21 september 2021,42
+6279,DATE+,954,965,5 juni 2013,42
+8102,ID,9,11,42,42
+8103,title,24,111,21-0052-wob-besluit-afgegeven-erkenningen-wecg-wet-explosieven-voor-civiele-gebruik.pdf,42
+8104,c: besluit datum,169,180,20-JAN 2022,42
+8106,event,154,168,Contactpersoon,42
+8108,event,230,355,"heeft u bij het ministerie van Infrastructuur en Waterstaat, met een beroep op de Wet openbaarheid van bestuur (hierna : Wob)",42
+8109,event,375,397,verzocht om informatie,42
+8110,event,559,663,doorgestuurd naar de Inspectie Leefomgeving en Transport (hierna: ILT) ter vermelden verdere behandeling,42
+8111,event,495,512,Uw Wob-verzoek is,42
+8112,event,696,769,"ontvangst van uw verzoek is door de ILT schriftelijk b,evestigd bij brief",42
+8113,event,878,925,heb ik de beslistermijn met vier weken verdaagd,42
+6285,c: besluit datum,121,134,11 maart 2022,77
+6286,c: verzoek datum,159,173,6 oktober 2021,77
+6287,c: ontvangst verzoek bevestigd,411,426,13 oktober 2021,77
+6288,c: beslistermijn verdaagd,472,487,3 februari 2022,77
+6289,DATE+,643,653,jaren 1989,77
+6290,DATE+,686,690,1989,77
+6291,c: contact,767,782,3 februari 2022,77
+6292,DATE+,944,952,11 maart,77
+6293,DATE+,953,957,2022,77
+6294,DATE+,1088,1101,11 maart 2022,77
+6295,DATE+,1184,1192,11 maart,77
+6296,DATE+,1193,1197,2022,77
+6297,DATE+,2277,2290,11 maart 2022,77
+6298,DATE+,2495,2508,11 maart 2022,77
+6299,DATE+,2803,2816,11 maart 2022,77
+6300,DATE+,3064,3077,11 maart 2022,77
+6301,DATE+,3300,3304,1989,77
+6302,DATE+,3431,3435,1989,77
+6303,DATE+,4021,4022,>,77
+6304,DATE+,4097,4101,1990,77
+6305,DATE+,4609,4613,1991,77
+6306,DATE+,5080,5086,1 JAAR,77
+6307,DATE+,5335,5339,1992,77
+6308,DATE+,5669,5675,1 JAAR,77
+6309,DATE+,5825,5831,1 JAAR,77
+6310,DATE+,6100,6104,1993,77
+6311,DATE+,6562,6568,1 JAAR,77
+6312,DATE+,6821,6825,1994,77
+6313,DATE+,7175,7181,1 JAAR,77
+6314,DATE+,7465,7469,1995,77
+6315,DATE+,8040,8044,1996,77
+6316,DATE+,8561,8565,1997,77
+6317,DATE+,8973,8977,1998,77
+6318,DATE+,9285,9291,1 JAAR,77
+6319,DATE+,9562,9566,1999,77
+6320,DATE+,10021,10027,1 JAAR,77
+6321,DATE+,10264,10268,2000,77
+6322,DATE+,10679,10685,1 JAAR,77
+6323,DATE+,10955,10959,2001,77
+6324,DATE+,11414,11420,1 JAAR,77
+6325,DATE+,11691,11695,2002,77
+6326,DATE+,12083,12089,1 JAAR,77
+6327,DATE+,12292,12296,2003,77
+6328,DATE+,12750,12756,1 JAAR,77
+6329,DATE+,12958,12962,2004,77
+6330,DATE+,13252,13258,1 JAAR,77
+6331,DATE+,13600,13604,2005,77
+6332,DATE+,14125,14129,2006,77
+6333,DATE+,14223,14229,1 JAAR,77
+6334,DATE+,14293,14299,1 JAAR,77
+6335,DATE+,14738,14742,2007,77
+6336,DATE+,14836,14842,1 JAAR,77
+6337,DATE+,14906,14912,1 JAAR,77
+6338,DATE+,15382,15383,>,77
+6339,DATE+,15434,15435,>,77
+6340,DATE+,15568,15572,2008,77
+6341,DATE+,16056,16062,1 JAAR,77
+6342,DATE+,16281,16282,>,77
+6343,DATE+,16357,16361,2009,77
+6344,DATE+,16455,16461,1 JAAR,77
+6345,DATE+,16525,16531,1 JAAR,77
+6346,DATE+,16950,16951,>,77
+6347,DATE+,17026,17030,2010,77
+6348,DATE+,17124,17130,1 JAAR,77
+6349,DATE+,17479,17480,>,77
+6350,DATE+,17567,17571,2011,77
+6351,DATE+,17665,17671,1 JAAR,77
+6352,DATE+,17735,17741,1 JAAR,77
+6353,DATE+,18065,18071,3 JAAR,77
+6354,DATE+,18121,18127,3 JAAR,77
+6355,DATE+,18223,18227,2012,77
+6356,DATE+,18321,18327,1 JAAR,77
+6357,DATE+,18391,18397,1 JAAR,77
+6358,DATE+,18733,18739,3 JAAR,77
+6359,DATE+,18789,18795,3 JAAR,77
+6360,DATE+,18891,18895,2013,77
+6361,DATE+,18989,18995,1 JAAR,77
+6362,DATE+,19059,19065,1 JAAR,77
+6363,DATE+,19462,19468,3 JAAR,77
+6364,DATE+,19564,19568,2014,77
+6365,DATE+,19662,19668,1 JAAR,77
+6366,DATE+,19732,19738,1 JAAR,77
+6367,DATE+,20085,20091,3 JAAR,77
+6368,DATE+,20187,20191,2015,77
+6369,DATE+,20285,20291,1 JAAR,77
+6370,DATE+,20355,20361,1 JAAR,77
+6371,DATE+,20695,20701,3 JAAR,77
+6372,DATE+,20735,20741,3 JAAR,77
+6373,DATE+,20855,20859,2016,77
+6374,DATE+,20953,20959,1 JAAR,77
+6375,DATE+,21023,21029,1 JAAR,77
+6376,DATE+,21362,21368,3 JAAR,77
+6377,DATE+,21402,21408,3 JAAR,77
+6378,DATE+,21522,21526,2017,77
+6379,DATE+,21947,21953,3 JAAR,77
+6380,DATE+,22049,22053,2018,77
+6381,DATE+,22437,22443,3 JAAR,77
+6382,DATE+,22491,22497,3 JAAR,77
+6383,DATE+,22592,22596,2019,77
+6384,DATE+,22937,22943,3 JAAR,77
+6385,DATE+,22977,22983,3 JAAR,77
+6386,DATE+,23097,23101,2020,77
+6387,DATE+,23485,23491,3 JAAR,77
+6388,DATE+,23525,23531,3 JAAR,77
+6389,DATE+,23644,23648,2021,77
+6390,DATE+,24035,24041,3 JAAR,77
+6391,DATE+,24091,24097,3 JAAR,77
+8114,ID,9,11,77,77
+8115,title,24,110,Besluit+op+Wob-verzoek+over+informatie+over+diertellingen+Bredesteeg+37+te+Echteld.pdf,77
+8116,event,115,120,Datum,77
+8117,event,174,268,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie,77
+8118,event,346,406,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,77
+8119,event,488,556,is aan u medegedeeld dat de beslistermijn met twee weken is verlengd,77
+8121,event,725,762,bent er over geïnformeerd in de brief,77
+8122,event,783,939,dat er een derde belanghebbende is bij de openbaarmaking van het document en dat deze in de gelegenheid is gesteld hierover zijn of haar zienswijze te geven,77
+6392,c: besluit datum,55,71,23 februari 2022,15
+6393,c: verzoek datum,95,110,6 augustus 2021,15
+6394,DATE+,314,318,1987,15
+6395,c: ontvangst verzoek bevestigd,418,434,19 augustus 2021,15
+6396,DATE+,559,569,jaren 1987,15
+6397,DATE+,574,578,1989,15
+6398,DATE+,634,638,1989,15
+6399,c: contact,699,715,1 september 2021,15
+6400,DATE+,953,969,23 februari 2022,15
+6401,DATE+,1050,1066,23 februari 2022,15
+6402,DATE+,1204,1220,23 februari 2022,15
+6403,DATE+,1316,1332,23 februari 2022,15
+6404,DATE+,2286,2302,23 februari 2022,15
+6405,DATE+,2547,2563,23 februari 2022,15
+6406,DATE+,2924,2940,23 februari 2022,15
+6407,DATE+,3056,3072,23 februari 2022,15
+6408,DATE+,3205,3221,23 februari 2022,15
+6409,DATE+,3336,3340,1987,15
+6410,DATE+,3345,3349,1997,15
+6411,DATE+,3395,3399,1998,15
+6412,DATE+,3404,3408,2021,15
+6413,DATE+,3459,3467,154 7482,15
+6414,DATE+,3509,3513,1987,15
+6415,DATE+,3517,3521,1988,15
+6416,DATE+,3568,3572,1989,15
+6417,DATE+,3632,3636,1110,15
+6418,DATE+,3666,3670,1990,15
+6419,DATE+,3764,3768,1991,15
+6420,DATE+,3862,3866,1992,15
+6421,DATE+,3977,3981,1993,15
+6422,DATE+,4041,4045,1050,15
+6423,DATE+,4075,4079,1994,15
+6424,DATE+,4139,4143,1050,15
+6425,DATE+,4173,4177,1995,15
+6426,DATE+,4237,4241,1050,15
+6427,DATE+,4271,4275,1996,15
+6428,DATE+,4335,4339,1025,15
+6429,DATE+,4369,4373,1997,15
+6430,DATE+,4433,4437,1025,15
+6431,DATE+,4550,4554,1998,15
+6432,DATE+,4602,4606,1998,15
+6433,DATE+,4672,4676,1998,15
+6434,DATE+,4714,4718,1999,15
+6435,DATE+,4766,4770,1999,15
+6436,DATE+,4808,4812,2000,15
+6437,DATE+,4891,4895,1050,15
+6438,DATE+,4896,4900,2000,15
+6439,DATE+,4938,4942,2001,15
+6440,DATE+,5021,5025,1050,15
+6441,DATE+,5026,5030,2001,15
+6442,DATE+,5068,5072,2002,15
+6443,DATE+,5119,5123,2002,15
+6444,DATE+,5162,5166,2002,15
+6445,DATE+,5210,5214,2003,15
+6446,DATE+,5261,5265,2003,15
+6447,DATE+,5303,5307,2003,15
+6448,DATE+,5351,5359,480 2003,15
+6449,DATE+,5403,5407,2004,15
+6450,DATE+,5450,5458,492 2004,15
+6451,DATE+,5496,5500,2004,15
+6452,DATE+,5544,5552,898 2004,15
+6453,DATE+,5596,5600,2005,15
+6454,DATE+,5643,5651,492 2005,15
+6455,DATE+,5737,5741,1088,15
+6456,DATE+,5742,5746,2005,15
+6457,DATE+,5790,5794,2006,15
+6458,DATE+,5837,5845,492 2006,15
+6459,DATE+,5883,5887,2006,15
+6460,DATE+,5931,5935,1088,15
+6461,DATE+,5936,5940,2006,15
+6462,DATE+,5984,5988,2007,15
+6463,DATE+,6036,6040,2007,15
+6464,DATE+,6074,6082,525 2007,15
+6465,DATE+,6126,6130,2008,15
+6466,DATE+,6173,6177,1914,15
+6467,DATE+,6178,6182,2008,15
+6468,DATE+,6220,6224,2008,15
+6469,DATE+,6268,6272,2009,15
+6470,DATE+,6320,6324,2009,15
+6471,DATE+,6362,6366,2009,15
+6472,DATE+,6410,6414,2010,15
+6473,DATE+,6462,6466,2010,15
+6474,DATE+,6504,6508,2010,15
+6475,DATE+,6556,6560,2010,15
+6476,DATE+,6604,6608,2011,15
+6477,DATE+,6651,6655,1241,15
+6478,DATE+,6656,6660,2011,15
+6479,DATE+,6698,6702,2011,15
+6480,DATE+,6767,6771,2011,15
+6481,DATE+,6815,6819,2012,15
+6482,DATE+,6865,6869,2012,15
+6483,DATE+,6907,6911,2012,15
+6484,DATE+,6955,6959,1730,15
+6485,DATE+,7008,7012,2013,15
+6486,DATE+,7056,7060,2014,15
+6487,DATE+,7107,7111,2014,15
+6488,DATE+,7149,7153,2014,15
+6489,DATE+,7197,7201,1267,15
+6490,DATE+,7250,7254,2015,15
+6491,DATE+,7297,7305,573 2015,15
+6492,DATE+,7343,7347,2015,15
+6493,DATE+,7391,7395,1035,15
+6494,DATE+,7396,7400,2015,15
+6495,DATE+,7444,7448,2016,15
+6496,DATE+,7495,7499,2016,15
+6497,DATE+,7537,7541,2016,15
+6498,DATE+,7585,7589,1284,15
+6499,DATE+,7590,7594,2016,15
+6500,DATE+,7638,7642,2017,15
+6501,DATE+,7685,7693,809 2017,15
+6502,DATE+,7742,7746,2018,15
+6503,DATE+,7793,7797,2018,15
+6504,DATE+,7835,7839,2018,15
+6505,DATE+,7887,7891,2019,15
+6506,DATE+,7938,7942,2019,15
+6507,DATE+,7980,7984,2019,15
+6508,DATE+,8032,8036,2020,15
+6509,DATE+,8083,8087,2020,15
+6510,DATE+,8125,8129,2020,15
+6511,DATE+,8177,8181,2020,15
+6512,DATE+,8225,8229,2021,15
+6513,DATE+,8276,8280,2021,15
+6514,DATE+,8318,8322,2021,15
+6515,DATE+,8366,8374,723 2021,15
+6516,DATE+,8413,8417,1785,15
+8123,ID,9,11,15,15
+8124,title,24,44,2021-208-besluit.pdf,15
+8125,event,49,54,Datum,15
+8126,event,111,205,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om informatie,15
+8127,event,353,413,ontvangst van uw verzoek is schriftelijk bevestigd bij brief,15
+8128,event,657,694,bent er over geïnformeerd in de brief,15
+8129,event,716,863,dat er een derde-belanghebbende is bij de openbaarmaking van het document en dat deze in de gelegenheid is gesteld hierover een zienswijze te geven,15
+6517,DATE+,62,78,21 februari 2022,29
+6518,c: besluit datum,99,115,10 augustus 2022,29
+6519,c: verzoek datum,157,173,21 februari 2022,29
+6520,c: contact,364,377,22 maart 2022,29
+6521,DATE+,820,832,15 juli 2022,29
+6522,c: overig,895,907,20 juli 2022,29
+6523,DATE+,1115,1127,15 juli 2022,29
+8130,ID,9,11,29,29
+8131,title,24,44,2022-053-besluit.pdf,29
+8132,event,93,98,Datum,29
+8133,event,174,314,heeft u het ministerie van Binnenlandse ook digitaal indienen op Zaken en Koninkrijksrelaties (BZK) gevraagd om informatie openbaar te maken,29
+8134,event,346,360,In een gesprek,29
+8135,event,378,638,heeft u aangegeven dat u op zoek bent naar informatie over de manier waarop de departementen invulling geven aan de controle op de declaraties gedaan door commissieleden en u wilt weten of al deze soorten declaraties worden gecontroleerd volgens deze werkwijze,29
+8136,event,851,891,verzoek is bij mijn ministerie ontvangen,29
+8137,event,908,947,en diezelfde dag in behandeling genomen,29
+6524,c: besluit datum,191,207,16 februari 2022,46
+6525,DATE+,240,247,21-0222,46
+6526,DATE+,251,258,21-0223,46
+6527,c: verzoek datum,298,311,17 maart 2021,46
+6528,DATE+,515,531,17 februari 2020,46
+6529,c: ontvangst verzoek bevestigd,747,760,18 maart 2021,46
+6530,DATE+,770,777,21-0222,46
+6531,c: beslistermijn verdaagd,798,811,12 april 2021,46
+6532,DATE+,860,871,11 mei 2021,46
+6533,c: verzoek datum,893,906,18 maart 2021,46
+6534,c: ontvangst verzoek bevestigd,1317,1330,18 maart 2021,46
+6535,DATE+,1340,1347,21-0223,46
+6536,c: beslistermijn verdaagd,1368,1381,12 april 2021,46
+6537,DATE+,1430,1441,11 mei 2021,46
+8138,ID,9,11,46,46
+8139,title,24,54,21-0222-en-21-0223-besluit.pdf,46
+8140,event,150,190,Datum: Uitsluitend verstuurd per mail op,46
+8141,event,313,404,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht,46
+8142,event,681,742,ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail,46
+8143,event,812,855,is de beslistermijn met vier weken verdaagd,46
+8144,event,907,956,heeft u met een beroep op Wob informatie verzocht,46
+8146,event,1253,1312,ontvangst van uw verzoek is schriftelijk bevestigd bij mail,46
+8147,event,1382,1425,is de beslistermijn met vier weken verdaagd,46
+6538,c: besluit datum,190,203,10 maart 2022,22
+6539,c: verzoek datum,259,276,21 september 2021,22
+6540,c: ontvangst verzoek bevestigd,623,640,22 september 2021,22
+6541,c: contact,672,686,1 oktober 2021,22
+6542,c: overig,760,774,1 oktober 2021,22
+6543,c: beslistermijn verdaagd,968,983,19 oktober 2021,22
+6544,c: beslistermijn verdaagd,1061,1077,15 november 2021,22
+6545,c: contact,1214,1230,30 november 2021,22
+6546,c: contact,1349,1365,15 november 2021,22
+8148,ID,9,11,22,22
+8149,title,24,43,2021-56-besluit.pdf,22
+8150,event,184,189,Datum,22
+8151,event,277,371,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) verzocht om documenten,22
+8152,event,557,618,ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail,22
+8153,event,687,738,contact gehad met een medewerker van het ministerie,22
+8155,event,775,829,is aan u de volgende link naar het rapport toegestuurd,22
+8156,event,984,1041,is de beslistermijn op uw verzoek met vier weken verdaagd,22
+8157,event,1078,1194,is aan u medegedeeld dat de beslistermijn is opgeschort met twee weken vanwege het vragen van zienswijzen aan derden,22
+8158,event,1231,1317,is aan u medegedeeld dat de opschorting is geëindigd en de beslistermijn is verstreken,22
+8159,event,1366,1542,bent u erover geïnformeerd dat er derde belanghebbenden zijn bij de openbaarmaking van de documenten en dat deze in de gelegenheid zijn gesteld hierover hun zienswijze te geven,22
+6547,c: besluit datum,56,71,14 januari 2022,17
+6548,c: verzoek datum,95,111,15 november 2021,17
+6549,c: ontvangst verzoek bevestigd,280,296,18 november 2021,17
+6550,DATE+,401,416,13 januari 2022,17
+6551,DATE+,421,436,14 januari 2022,17
+6552,DATE+,523,533,14 januari,17
+6553,DATE+,534,538,2022,17
+6554,DATE+,1284,1299,14 januari 2022,17
+6555,DATE+,2205,2220,14 januari 2022,17
+6556,DATE+,2784,2799,14 januari 2022,17
+6557,DATE+,3316,3331,14 januari 2022,17
+8160,ID,9,11,17,17
+8161,title,24,44,2021-276-besluit.pdf,17
+8162,event,49,55,D atum,17
+8163,event,112,208,"heeft u, met een beroep op de Wet openbaarheid van bestuur (hierna: Wob), verzocht om informatie",17
+8164,event,226,276,ontvangst van uw verzoek is schriftelijk bevestigd,17
+6558,c: besluit datum,118,134,30 augustus 2022,88
+6559,c: verzoek datum,154,165,25 mei 2022,88
+6560,DATE+,348,352,1994,88
+6561,DATE+,364,373,juli 2016,88
+6562,c: ontvangst verzoek bevestigd,418,429,27 mei 2022,88
+6563,c: beslistermijn verdaagd,490,502,22 juni 2022,88
+6564,c: overig,576,587,7 juni 2022,88
+6565,c: overig,665,676,8 juni 2022,88
+6566,DATE+,782,786,1994,88
+6567,DATE+,790,794,2015,88
+6568,DATE+,1066,1070,1994,88
+6569,DATE+,1257,1261,2000,88
+6570,DATE+,1293,1297,2000,88
+6571,DATE+,1374,1383,juli 2016,88
+6572,DATE+,1439,1443,2014,88
+6573,DATE+,1642,1646,2007,88
+6574,DATE+,1687,1696,2007/8777,88
+6575,DATE+,1844,1848,2008,88
+6576,DATE+,1922,1926,2000,88
+6577,DATE+,2051,2055,1994,88
+6578,DATE+,2058,2062,2016,88
+6579,DATE+,2139,2143,2000,88
+8165,ID,9,11,88,88
+8166,title,24,81,Besluit+Woo-verzoek+2022-36+Rijgeschiktheid+depressie.pdf,88
+8167,event,112,117,Datum,88
+8169,event,166,215,heeft u bij mijn ministerie een verzoek ingediend,88
+8170,date,348,373,1994 tot en met juli 2016,88
+8172,event,430,470,is de ontvangst van uw verzoek bevestigd,88
+8173,event,503,557,is de beslissing op uw verzoek met vier weken verdaagd,88
+8174,event,588,633,bent u verzocht om uw verzoek nader te duiden,88
+8175,event,640,660,heeft er in uw email,88
+8176,event,677,1000,"op gewezen dat u wil reconstrueren hoe het kan dat de Gezondheidsraad twee adviezen heeft uitgebracht in 1994 en 2015 over rijgeschiktheid bij stemmingsstoornissen, terwijl tussentijds de regelgeving is gewijzigd op het punt van de eisen die aan bestuurders worden gesteld met betrekking tot unipolaire stemmingsstoornissen",88
+6580,DATE+,103,118,13 januari 2022,72
+6581,c: besluit datum,129,145,30 augustus 2022,72
+6582,c: verzoek datum,170,185,13 januari 2022,72
+6583,DATE+,379,393,1 januari 2021,72
+6584,DATE+,405,420,13 januari 2022,72
+6585,c: inwerking treden van Woo,431,441,1 mei 2022,72
+6586,c: inwerking treden van Woo,534,539,1 mei,72
+6587,c: ontvangst verzoek bevestigd,560,575,18 januari 2022,72
+6588,DATE+,699,712,15 maart 2022,72
+6589,c: contact,745,760,3 februari 2022,72
+6590,DATE+,922,935,december 2021,72
+6591,DATE+,1017,1030,december 2021,72
+6592,c: overig,1064,1075,13 mei 2022,72
+6593,DATE+,1092,1104,15 juni 2022,72
+6594,c: contact,1170,1181,12 mei 2022,72
+8177,ID,9,11,72,72
+8178,title,24,79,Anoniem+besluit+op+Wob-verzoek+inzake+de+Suikertaks.pdf,72
+8179,event,123,128,Datum,72
+8180,event,235,284,heeft u mij gevraagd informatie openbaar te maken,72
+8181,date,379,420,1 januari 2021 tot en met 13 januari 2022,72
+8182,event,442,473,is de Wob vervangen door de Woo,72
+8184,event,543,552,Woo geldt,72
+8185,event,576,643,heeft u bericht ontvangen dat uw verzoek in goede orde is ontvangen,72
+8186,event,761,817,contact gehad met enkele medewerkers van mijn ministerie,72
+8187,event,1076,1150,heeft u mij tot 15 juni 2022 de tijd gegeven om op uw verzoek te beslissen,72
+8188,event,1182,1350,heb ik u per e-mail laten weten dat de betrokken belanghebbenden zijn gevraagd hun mening te geven over de voorgenomen openbaarmaking van de door u gevraagde informatie,72
+6595,c: besluit datum,123,136,30 maart 2022,47
+6596,DATE+,169,176,21-0493,47
+6597,c: verzoek datum,216,228,17 juni 2021,47
+6598,c: ontvangst verzoek bevestigd,456,468,18 juni 2021,47
+6599,DATE+,478,485,21-0493,47
+6600,c: beslistermijn verdaagd,506,518,12 juli 2021,47
+6601,DATE+,567,583,10 augustus 2021,47
+8189,ID,9,11,47,47
+8190,title,24,43,21-0493-besluit.pdf,47
+8191,event,82,122,Datum: Uitsluitend verstuurd per mail op,47
+8192,event,229,320,heeft u met een beroep op de Wet openbaarheid van bestuur (hierna: Wob) informatie verzocht,47
+8193,event,390,451,ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail,47
+8194,event,519,562,is de beslistermijn met vier weken verdaagd,47
+6602,DATE+,176,180,0880,118
+6603,DATE+,181,188,42 4242,118
+6604,c: besluit datum,231,243,20 juni 2022,118
+6605,c: verzoek ontvangen,254,266,9 maart 2022,118
+6606,DATE+,444,448,2000,118
+6607,c: contact,537,549,5 april 2022,118
+6608,c: inwerking treden van Woo,617,627,1 mei 2022,118
+6609,DATE+,825,829,2000,118
+6610,DATE+,962,974,20 juni 2022,118
+6611,DATE+,1015,1027,20 juni 2022,118
+6612,DATE+,1370,1382,20 juni 2022,118
+6613,DATE+,1509,1521,20 juni 2022,118
+6614,DATE+,2163,2175,20 juni 2022,118
+6615,DATE+,2951,2963,20 juni 2022,118
+8195,ID,9,12,118,118
+8196,title,25,80,besluit-wobverzoek-natuurherstel-hart-van-meijendel.pdf,118
+8198,event,225,230,Datum,118
+8199,event,267,337,ontving ik uw verzoek waarin u vraagt om openbaarmaking van informatie,118
+8200,event,550,593,heeft u uw verzoek in een e-mail toegelicht,118
+8201,event,628,694,is de Wob ingetrokken en vervangen door de Wet open overheid (Woo),118
+6652,DATE+,75,84,4 oktober,40
+6653,c: verzoek datum,117,129,27 juli 2022,40
+6654,DATE+,312,323,1 juni 2021,40
+6655,DATE+,335,347,14 juli 2022,40
+6656,c: ontvangst verzoek bevestigd,442,454,27 juli 2022,40
+6657,c: beslistermijn verdaagd,462,478,24 augustus 2022,40
+6658,c: beslistermijn verdaagd,556,572,31 augustus 2022,40
+6659,DATE+,847,863,26 augustus 2022,40
+6660,c: overig,982,998,30 augustus 2022,40
+6661,DATE+,1240,1256,26 augustus 2022,40
+8203,ID,9,11,40,40
+8204,title,24,43,2022-66-besluit.pdf,40
+8205,event,130,179,heeft u bij mijn ministerie een verzoek ingediend,40
+8206,date,312,347,1 juni 2021 tot en met 14 juli 2022,40
+8207,event,376,437,ontvangst van uw verzoek is schriftelijk bevestigd bij e-mail,40
+8208,event,479,548,is per e-mail de beslissing op uw Woo-verzoek met vier weken verdaagd,40
+8209,event,573,695,is per e-mail de beslistermijn op uw Woo-verzoek met nog twee weken opgeschort in verband met het opvragen van zienswijzen,40
+8210,event,999,1090,zijn derde-belanghebbenden in de gelegenheid gesteld om hun zienwijze naar voren te brengen,40
+8211,c: besluit datum,75,89,4 oktober 2022,40
+8212,event,69,74,Datum,40
