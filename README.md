@@ -16,6 +16,7 @@ We have marked the annotations of one of the documents in a [PDF](https://github
 - main.ipynb -> notebook where the different steps get connected + evaluated.
 - demo.ipynb -> notebook where a demonstration can be run.
 - descriptives.md -> descriptive statistics of dataset + predictions of chatGPT
+- annotations folder -> folder with data annotated by two annotators, notebook with calculations for Cohen's kappa & annotation guidelines (in Dutch)
 - code/run_chatGPT -> notebook that runs the two experiments of ChatGPT
 - code/scripts -> contains all files with the code needed to run the algorithm. 
 #### data folder
